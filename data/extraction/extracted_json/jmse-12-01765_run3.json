@@ -1,0 +1,13 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "industrial",
+  "major_consumers": "sensors",
+  "evaluation_type": "hybrid",
+  "energy_model": "abstract",
+  "techniques": [
+    "learning or predictive optimization",
+    "motion and trajectory optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

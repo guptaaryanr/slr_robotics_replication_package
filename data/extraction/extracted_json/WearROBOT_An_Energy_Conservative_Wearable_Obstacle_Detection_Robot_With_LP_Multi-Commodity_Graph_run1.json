@@ -1,0 +1,13 @@
+{
+  "metric": "aggregate energy/power",
+  "domain": "iot power",
+  "major_consumers": "sensors",
+  "evaluation_type": "simulation",
+  "energy_model": "representational",
+  "techniques": [
+    "power management and idle control",
+    "communication and data efficiency"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.9
+}

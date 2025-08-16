@@ -1,0 +1,84 @@
+{
+  "runs": [
+    {
+      "metric": "validation statistics",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "physical",
+      "energy_model": "representational",
+      "techniques": [
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.95
+    },
+    {
+      "metric": "validation statistics",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "physical",
+      "energy_model": "representational",
+      "techniques": [
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "accuracy vs energy",
+      "confidence": 0.95
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "industrial",
+      "evaluation_type": "physical",
+      "confidence": 0.95
+    }
+  ],
+  "chosen": {
+    "domain": "industrial",
+    "major_consumers": "motors and actuators",
+    "evaluation_type": "physical",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "learning or predictive optimization"
+    ],
+    "metric": "validation statistics",
+    "confidence": 0.95,
+    "needs_review": true,
+    "_votes": {
+      "domain": {
+        "industrial": 3
+      },
+      "major_consumers": {
+        "motors and actuators": 2
+      },
+      "evaluation_type": {
+        "physical": 3
+      },
+      "energy_model": {
+        "representational": 2
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 1,
+        "accuracy vs energy": 1
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "industrial": 3
+    },
+    "major_consumers": {
+      "motors and actuators": 2
+    },
+    "evaluation_type": {
+      "physical": 3
+    },
+    "energy_model": {
+      "representational": 2
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 1,
+      "accuracy vs energy": 1
+    }
+  },
+  "needs_review": true
+}

@@ -1,0 +1,14 @@
+{
+  "metric": "power consumption",
+  "domain": "robot exploration",
+  "major_consumers": "motors and actuators",
+  "evaluation_type": "physical",
+  "energy_model": "representational",
+  "techniques": [
+    "power management and idle control",
+    "motion and trajectory optimization",
+    "computation allocation and scheduling"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.78
+}

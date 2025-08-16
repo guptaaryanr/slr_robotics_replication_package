@@ -1,0 +1,13 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "service or domestic",
+  "major_consumers": "computing and controllers",
+  "evaluation_type": "simulation",
+  "energy_model": "representational",
+  "techniques": [
+    "computation allocation and scheduling",
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

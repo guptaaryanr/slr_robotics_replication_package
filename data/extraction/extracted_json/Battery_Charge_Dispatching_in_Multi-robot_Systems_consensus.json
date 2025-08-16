@@ -1,0 +1,87 @@
+{
+  "runs": [
+    {
+      "metric": "relative change versus baseline",
+      "domain": "industrial",
+      "major_consumers": "battery and power electronics",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "power management and idle control"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.8
+    },
+    {
+      "metric": "relative change versus baseline",
+      "domain": "industrial",
+      "major_consumers": "battery and power electronics",
+      "evaluation_type": "simulation",
+      "energy_model": "other",
+      "techniques": [
+        "power management and idle control"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.85
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "industrial",
+      "evaluation_type": "simulation",
+      "techniques": [
+        "power management and idle control"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "industrial",
+    "major_consumers": "battery and power electronics",
+    "evaluation_type": "simulation",
+    "energy_model": "other",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "power management and idle control"
+    ],
+    "metric": "relative change versus baseline",
+    "confidence": 0.85,
+    "needs_review": true,
+    "_votes": {
+      "domain": {
+        "industrial": 3
+      },
+      "major_consumers": {
+        "battery and power electronics": 2
+      },
+      "evaluation_type": {
+        "simulation": 3
+      },
+      "energy_model": {
+        "representational": 1,
+        "other": 1
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 2
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "industrial": 3
+    },
+    "major_consumers": {
+      "battery and power electronics": 2
+    },
+    "evaluation_type": {
+      "simulation": 3
+    },
+    "energy_model": {
+      "representational": 1,
+      "other": 1
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 2
+    }
+  },
+  "needs_review": true
+}

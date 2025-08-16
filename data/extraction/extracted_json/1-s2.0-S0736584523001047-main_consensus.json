@@ -1,0 +1,94 @@
+{
+  "runs": [
+    {
+      "metric": "aggregate energy/power",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "physical",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization",
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.99
+    },
+    {
+      "metric": "aggregate energy/power",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "physical",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization",
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.95
+    },
+    {
+      "metric": "aggregate energy/power",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "physical",
+      "energy_model": "abstract",
+      "techniques": [
+        "learning or predictive optimization",
+        "motion and trajectory optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.95
+    }
+  ],
+  "chosen": {
+    "domain": "industrial",
+    "major_consumers": "motors and actuators",
+    "evaluation_type": "physical",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "motion and trajectory optimization",
+      "learning or predictive optimization"
+    ],
+    "metric": "aggregate energy/power",
+    "confidence": 0.99,
+    "needs_review": false,
+    "_votes": {
+      "domain": {
+        "industrial": 3
+      },
+      "major_consumers": {
+        "motors and actuators": 3
+      },
+      "evaluation_type": {
+        "physical": 3
+      },
+      "energy_model": {
+        "representational": 2,
+        "abstract": 1
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 3
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "industrial": 3
+    },
+    "major_consumers": {
+      "motors and actuators": 3
+    },
+    "evaluation_type": {
+      "physical": 3
+    },
+    "energy_model": {
+      "representational": 2,
+      "abstract": 1
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 3
+    }
+  },
+  "needs_review": false
+}

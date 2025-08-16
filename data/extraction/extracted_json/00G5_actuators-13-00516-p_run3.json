@@ -1,0 +1,6 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "industrial",
+  "evaluation_type": "physical",
+  "confidence": 0.95
+}

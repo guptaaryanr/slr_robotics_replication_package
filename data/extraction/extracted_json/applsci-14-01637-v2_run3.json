@@ -1,0 +1,10 @@
+{
+  "metric": "relative change versus baseline",
+  "domain": "aerial",
+  "evaluation_type": "simulation",
+  "techniques": [
+    "motion and trajectory optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

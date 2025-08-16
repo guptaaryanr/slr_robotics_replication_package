@@ -1,0 +1,13 @@
+{
+  "metric": "validation statistics",
+  "domain": "swarm or multi-robot",
+  "major_consumers": "sensors",
+  "evaluation_type": "simulation",
+  "energy_model": "representational",
+  "techniques": [
+    "computation allocation and scheduling",
+    "communication and data efficiency"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.9
+}

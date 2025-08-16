@@ -1,0 +1,13 @@
+{
+  "metric": "relative change versus baseline",
+  "domain": "swarm or multi-robot",
+  "major_consumers": "computing and controllers",
+  "evaluation_type": "simulation",
+  "energy_model": "representational",
+  "techniques": [
+    "computation allocation and scheduling",
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "stability vs energy",
+  "confidence": 0.85
+}

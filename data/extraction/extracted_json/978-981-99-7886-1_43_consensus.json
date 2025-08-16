@@ -1,0 +1,80 @@
+{
+  "runs": [
+    {
+      "metric": "relative change versus baseline",
+      "domain": "service or domestic",
+      "major_consumers": "computing and controllers",
+      "evaluation_type": "physical",
+      "energy_model": "representational",
+      "techniques": [
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9
+    },
+    {
+      "metric": "aggregate energy/power",
+      "domain": "service or domestic",
+      "evaluation_type": "physical",
+      "confidence": 0.9
+    },
+    {
+      "metric": "aggregate energy/power",
+      "domain": "service or domestic",
+      "evaluation_type": "physical",
+      "techniques": [
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "service or domestic",
+    "major_consumers": "computing and controllers",
+    "evaluation_type": "physical",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "learning or predictive optimization"
+    ],
+    "metric": "relative change versus baseline",
+    "confidence": 0.9,
+    "needs_review": true,
+    "_votes": {
+      "domain": {
+        "service or domestic": 3
+      },
+      "major_consumers": {
+        "computing and controllers": 1
+      },
+      "evaluation_type": {
+        "physical": 3
+      },
+      "energy_model": {
+        "representational": 1
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 2
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "service or domestic": 3
+    },
+    "major_consumers": {
+      "computing and controllers": 1
+    },
+    "evaluation_type": {
+      "physical": 3
+    },
+    "energy_model": {
+      "representational": 1
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 2
+    }
+  },
+  "needs_review": true
+}

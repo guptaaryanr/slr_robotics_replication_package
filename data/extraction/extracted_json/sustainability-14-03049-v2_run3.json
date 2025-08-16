@@ -1,0 +1,6 @@
+{
+  "metric": "task-normalized energy",
+  "domain": "aerial",
+  "evaluation_type": "simulation",
+  "confidence": 0.85
+}

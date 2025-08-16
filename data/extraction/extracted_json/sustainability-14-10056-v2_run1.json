@@ -1,0 +1,13 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "service or domestic",
+  "major_consumers": "battery and power electronics",
+  "evaluation_type": "hybrid",
+  "energy_model": "representational",
+  "techniques": [
+    "power management and idle control",
+    "computation allocation and scheduling"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.8
+}

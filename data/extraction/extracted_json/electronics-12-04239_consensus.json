@@ -1,0 +1,86 @@
+{
+  "runs": [
+    {
+      "metric": "validation statistics",
+      "domain": "swarm or multi-robot",
+      "major_consumers": "computing and controllers",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "computation allocation and scheduling",
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9
+    },
+    {
+      "metric": "validation statistics",
+      "domain": "swarm or multi-robot",
+      "major_consumers": "sensors",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "computation allocation and scheduling",
+        "communication and data efficiency"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9
+    },
+    {
+      "metric": "validation statistics",
+      "domain": "swarm or multi-robot",
+      "evaluation_type": "simulation",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "swarm or multi-robot",
+    "major_consumers": "computing and controllers",
+    "evaluation_type": "simulation",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "computation allocation and scheduling"
+    ],
+    "metric": "validation statistics",
+    "confidence": 0.9,
+    "needs_review": true,
+    "_votes": {
+      "domain": {
+        "swarm or multi-robot": 3
+      },
+      "major_consumers": {
+        "computing and controllers": 1,
+        "sensors": 1
+      },
+      "evaluation_type": {
+        "simulation": 3
+      },
+      "energy_model": {
+        "representational": 2
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 2
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "swarm or multi-robot": 3
+    },
+    "major_consumers": {
+      "computing and controllers": 1,
+      "sensors": 1
+    },
+    "evaluation_type": {
+      "simulation": 3
+    },
+    "energy_model": {
+      "representational": 2
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 2
+    }
+  },
+  "needs_review": true
+}

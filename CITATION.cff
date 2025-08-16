@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite the paper and this software."
+title: "Energy Efficiency in Robotics Software: SLR (2020+) — Replication Package"
+type: software
+authors:
+  - family-names: "Gupta"
+    given-names: "Aryan"
+repository-code: "https://github.com/OWNER/REPO"
+license: MIT
+keywords:
+  - systematic literature review
+  - robotics software
+  - energy efficiency
+  - sustainability
+version: "v1.0.0"
+date-released: "2025-08-16"
+preferred-citation:
+  type: article
+  title: "Energy Efficiency in Robotics Software: A Systematic Literature Review From 2020 Onward"
+  authors:
+    - family-names: "Gupta"
+      given-names: "Aryan"
+  year: 2025
+  journal: "arXiv"
+  url: "https://arxiv.org/abs/XXXX.XXXXX"

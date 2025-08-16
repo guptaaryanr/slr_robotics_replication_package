@@ -1,0 +1,12 @@
+{
+  "metric": "aggregate energy/power",
+  "domain": "service or domestic",
+  "major_consumers": "sensors",
+  "evaluation_type": "simulation",
+  "energy_model": "representational",
+  "techniques": [
+    "communication and data efficiency"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

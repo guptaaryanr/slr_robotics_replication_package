@@ -1,0 +1,13 @@
+{
+  "metric": "aggregate energy/power",
+  "domain": "robot exploration",
+  "major_consumers": "motors and actuators",
+  "evaluation_type": "hybrid",
+  "energy_model": "representational",
+  "techniques": [
+    "motion and trajectory optimization",
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

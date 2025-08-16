@@ -1,0 +1,92 @@
+{
+  "runs": [
+    {
+      "metric": "validation statistics",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9609
+    },
+    {
+      "metric": "relative change versus baseline",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "physical",
+      "energy_model": "other",
+      "techniques": [
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9609
+    },
+    {
+      "metric": "validation statistics",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "physical",
+      "energy_model": "representational",
+      "techniques": [
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.96
+    }
+  ],
+  "chosen": {
+    "domain": "industrial",
+    "major_consumers": "motors and actuators",
+    "evaluation_type": "physical",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "learning or predictive optimization"
+    ],
+    "metric": "validation statistics",
+    "confidence": 0.9609,
+    "needs_review": false,
+    "_votes": {
+      "domain": {
+        "industrial": 3
+      },
+      "major_consumers": {
+        "motors and actuators": 3
+      },
+      "evaluation_type": {
+        "simulation": 1,
+        "physical": 2
+      },
+      "energy_model": {
+        "representational": 2,
+        "other": 1
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 3
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "industrial": 3
+    },
+    "major_consumers": {
+      "motors and actuators": 3
+    },
+    "evaluation_type": {
+      "simulation": 1,
+      "physical": 2
+    },
+    "energy_model": {
+      "representational": 2,
+      "other": 1
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 3
+    }
+  },
+  "needs_review": false
+}

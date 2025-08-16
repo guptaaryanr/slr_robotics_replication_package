@@ -1,0 +1,85 @@
+{
+  "runs": [
+    {
+      "metric": "other",
+      "domain": "aerial",
+      "major_consumers": "sensors",
+      "evaluation_type": "hybrid",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.8
+    },
+    {
+      "metric": "other",
+      "domain": "aerial",
+      "major_consumers": "sensors",
+      "evaluation_type": "hybrid",
+      "energy_model": "other",
+      "techniques": [
+        "motion and trajectory optimization",
+        "computation allocation and scheduling"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.85
+    },
+    {
+      "metric": "other",
+      "domain": "aerial",
+      "evaluation_type": "hybrid",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "aerial",
+    "major_consumers": "sensors",
+    "evaluation_type": "hybrid",
+    "energy_model": "other",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "motion and trajectory optimization"
+    ],
+    "metric": "other",
+    "confidence": 0.85,
+    "needs_review": true,
+    "_votes": {
+      "domain": {
+        "aerial": 3
+      },
+      "major_consumers": {
+        "sensors": 2
+      },
+      "evaluation_type": {
+        "hybrid": 3
+      },
+      "energy_model": {
+        "representational": 1,
+        "other": 1
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 2
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "aerial": 3
+    },
+    "major_consumers": {
+      "sensors": 2
+    },
+    "evaluation_type": {
+      "hybrid": 3
+    },
+    "energy_model": {
+      "representational": 1,
+      "other": 1
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 2
+    }
+  },
+  "needs_review": true
+}

@@ -1,0 +1,13 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "aerial",
+  "major_consumers": "motors and actuators",
+  "evaluation_type": "simulation",
+  "energy_model": "representational",
+  "techniques": [
+    "motion and trajectory optimization",
+    "computation allocation and scheduling"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.9
+}

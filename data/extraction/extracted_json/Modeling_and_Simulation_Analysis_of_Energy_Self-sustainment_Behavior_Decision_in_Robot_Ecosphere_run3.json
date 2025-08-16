@@ -1,0 +1,6 @@
+{
+  "metric": "aggregate energy/power",
+  "domain": "industrial",
+  "evaluation_type": "simulation",
+  "confidence": 0.85
+}

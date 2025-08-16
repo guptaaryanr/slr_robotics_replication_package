@@ -1,0 +1,86 @@
+{
+  "runs": [
+    {
+      "metric": "relative change versus baseline",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "physical",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization",
+        "power management and idle control"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "physical",
+      "energy_model": "other",
+      "techniques": [
+        "power management and idle control",
+        "computation allocation and scheduling"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9
+    },
+    {
+      "metric": "other",
+      "domain": "industrial",
+      "evaluation_type": "physical",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "industrial",
+    "major_consumers": "motors and actuators",
+    "evaluation_type": "physical",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "power management and idle control"
+    ],
+    "metric": "relative change versus baseline",
+    "confidence": 0.9,
+    "needs_review": true,
+    "_votes": {
+      "domain": {
+        "industrial": 3
+      },
+      "major_consumers": {
+        "motors and actuators": 2
+      },
+      "evaluation_type": {
+        "physical": 3
+      },
+      "energy_model": {
+        "representational": 1,
+        "other": 1
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 2
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "industrial": 3
+    },
+    "major_consumers": {
+      "motors and actuators": 2
+    },
+    "evaluation_type": {
+      "physical": 3
+    },
+    "energy_model": {
+      "representational": 1,
+      "other": 1
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 2
+    }
+  },
+  "needs_review": true
+}

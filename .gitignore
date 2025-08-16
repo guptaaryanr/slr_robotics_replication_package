@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+.env
+.env.*
+.ipynb_checkpoints/
+*.log
+
+# --- OS / Editors ---
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.code-workspace
+
+# --- Data we do NOT ship (copyright/caches/scratch) ---
+pdfs/
+tei_full/
+.grobid/
+openalex_cache/
+raw_pdf/
+*.tei.xml
+*.tei
+# add any other local caches/temp dirs you know about
+
+# --- Results scratch (keep final figs/tables, ignore temp) ---
+results/tmp/

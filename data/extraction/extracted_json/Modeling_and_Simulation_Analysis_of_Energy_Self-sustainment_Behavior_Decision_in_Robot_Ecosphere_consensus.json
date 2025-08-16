@@ -1,0 +1,76 @@
+{
+  "runs": [
+    {
+      "metric": "other",
+      "domain": "industrial",
+      "major_consumers": "computing and controllers",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "other"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.8
+    },
+    {
+      "metric": "other",
+      "domain": "industrial",
+      "evaluation_type": "simulation",
+      "confidence": 0.85
+    },
+    {
+      "metric": "aggregate energy/power",
+      "domain": "industrial",
+      "evaluation_type": "simulation",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "industrial",
+    "major_consumers": "computing and controllers",
+    "evaluation_type": "simulation",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "other"
+    ],
+    "metric": "other",
+    "confidence": 0.85,
+    "needs_review": true,
+    "_votes": {
+      "domain": {
+        "industrial": 3
+      },
+      "major_consumers": {
+        "computing and controllers": 1
+      },
+      "evaluation_type": {
+        "simulation": 3
+      },
+      "energy_model": {
+        "representational": 1
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 1
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "industrial": 3
+    },
+    "major_consumers": {
+      "computing and controllers": 1
+    },
+    "evaluation_type": {
+      "simulation": 3
+    },
+    "energy_model": {
+      "representational": 1
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 1
+    }
+  },
+  "needs_review": true
+}

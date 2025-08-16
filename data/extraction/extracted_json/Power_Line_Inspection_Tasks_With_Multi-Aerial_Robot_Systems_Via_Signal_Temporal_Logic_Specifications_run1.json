@@ -1,0 +1,13 @@
+{
+  "metric": "other",
+  "domain": "robot exploration",
+  "major_consumers": "computing and controllers",
+  "evaluation_type": "hybrid",
+  "energy_model": "representational",
+  "techniques": [
+    "motion and trajectory optimization",
+    "computation allocation and scheduling"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.8
+}

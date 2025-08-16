@@ -1,0 +1,11 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "industrial",
+  "evaluation_type": "physical",
+  "energy_model": "representational",
+  "techniques": [
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "cost vs energy",
+  "confidence": 0.85
+}

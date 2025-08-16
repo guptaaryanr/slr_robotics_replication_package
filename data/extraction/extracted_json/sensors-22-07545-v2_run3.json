@@ -1,0 +1,10 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "industrial",
+  "evaluation_type": "simulation",
+  "techniques": [
+    "motion and trajectory optimization",
+    "learning or predictive optimization"
+  ],
+  "confidence": 0.85
+}

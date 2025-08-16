@@ -1,0 +1,13 @@
+{
+  "metric": "relative change versus baseline",
+  "domain": "aerial",
+  "major_consumers": "motors and actuators",
+  "evaluation_type": "simulation",
+  "energy_model": "representational",
+  "techniques": [
+    "learning or predictive optimization",
+    "motion and trajectory optimization"
+  ],
+  "qa_tradeoff": "accuracy vs energy",
+  "confidence": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "robot exploration",
+  "major_consumers": "mechanical motion pattern",
+  "evaluation_type": "simulation",
+  "energy_model": "abstract",
+  "techniques": [
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

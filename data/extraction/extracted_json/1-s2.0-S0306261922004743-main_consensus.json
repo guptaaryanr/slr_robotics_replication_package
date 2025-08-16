@@ -1,0 +1,98 @@
+{
+  "runs": [
+    {
+      "metric": "composite objective including energy",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "power management and idle control",
+        "motion and trajectory optimization",
+        "computation allocation and scheduling"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "power management and idle control",
+        "motion and trajectory optimization",
+        "computation allocation and scheduling",
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.85
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "power management and idle control",
+        "computation allocation and scheduling",
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "industrial",
+    "major_consumers": "motors and actuators",
+    "evaluation_type": "simulation",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "motion and trajectory optimization",
+      "power management and idle control",
+      "computation allocation and scheduling",
+      "learning or predictive optimization"
+    ],
+    "metric": "composite objective including energy",
+    "confidence": 0.9,
+    "needs_review": false,
+    "_votes": {
+      "domain": {
+        "industrial": 3
+      },
+      "major_consumers": {
+        "motors and actuators": 3
+      },
+      "evaluation_type": {
+        "simulation": 3
+      },
+      "energy_model": {
+        "representational": 3
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 3
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "industrial": 3
+    },
+    "major_consumers": {
+      "motors and actuators": 3
+    },
+    "evaluation_type": {
+      "simulation": 3
+    },
+    "energy_model": {
+      "representational": 3
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 3
+    }
+  },
+  "needs_review": false
+}

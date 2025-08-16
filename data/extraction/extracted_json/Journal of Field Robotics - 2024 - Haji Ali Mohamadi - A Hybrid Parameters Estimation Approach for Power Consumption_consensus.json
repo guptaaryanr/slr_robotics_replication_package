@@ -1,0 +1,104 @@
+{
+  "runs": [
+    {
+      "metric": "power consumption",
+      "domain": "robot exploration",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "physical",
+      "energy_model": "representational",
+      "techniques": [
+        "power management and idle control",
+        "motion and trajectory optimization",
+        "computation allocation and scheduling"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.78
+    },
+    {
+      "metric": "power consumption",
+      "domain": "robot exploration",
+      "major_consumers": "computing and controllers",
+      "evaluation_type": "hybrid",
+      "energy_model": "other",
+      "techniques": [
+        "power management and idle control",
+        "motion and trajectory optimization",
+        "computation allocation and scheduling",
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9
+    },
+    {
+      "metric": "energy consumption (Wh)",
+      "domain": "robot exploration",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "hybrid",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization",
+        "computation allocation and scheduling",
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.78
+    }
+  ],
+  "chosen": {
+    "domain": "robot exploration",
+    "major_consumers": "motors and actuators",
+    "evaluation_type": "hybrid",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "power management and idle control",
+      "motion and trajectory optimization",
+      "learning or predictive optimization",
+      "computation allocation and scheduling"
+    ],
+    "metric": "power consumption",
+    "confidence": 0.9,
+    "needs_review": false,
+    "_votes": {
+      "domain": {
+        "robot exploration": 3
+      },
+      "major_consumers": {
+        "motors and actuators": 2,
+        "computing and controllers": 1
+      },
+      "evaluation_type": {
+        "physical": 1,
+        "hybrid": 2
+      },
+      "energy_model": {
+        "representational": 2,
+        "other": 1
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 3
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "robot exploration": 3
+    },
+    "major_consumers": {
+      "motors and actuators": 2,
+      "computing and controllers": 1
+    },
+    "evaluation_type": {
+      "physical": 1,
+      "hybrid": 2
+    },
+    "energy_model": {
+      "representational": 2,
+      "other": 1
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 3
+    }
+  },
+  "needs_review": false
+}

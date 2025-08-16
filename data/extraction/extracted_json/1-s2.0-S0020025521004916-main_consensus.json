@@ -1,0 +1,91 @@
+{
+  "runs": [
+    {
+      "metric": "relative change versus baseline",
+      "domain": "iot power",
+      "major_consumers": "communication subsystem",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "communication and data efficiency"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9
+    },
+    {
+      "metric": "relative change versus baseline",
+      "domain": "iot power",
+      "major_consumers": "communication subsystem",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "power management and idle control",
+        "communication and data efficiency"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "iot power",
+      "major_consumers": "communication subsystem",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "communication and data efficiency"
+      ],
+      "qa_tradeoff": "mission quality vs energy",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "iot power",
+    "major_consumers": "communication subsystem",
+    "evaluation_type": "simulation",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "communication and data efficiency"
+    ],
+    "metric": "relative change versus baseline",
+    "confidence": 0.9,
+    "needs_review": false,
+    "_votes": {
+      "domain": {
+        "iot power": 3
+      },
+      "major_consumers": {
+        "communication subsystem": 3
+      },
+      "evaluation_type": {
+        "simulation": 3
+      },
+      "energy_model": {
+        "representational": 3
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 2,
+        "mission quality vs energy": 1
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "iot power": 3
+    },
+    "major_consumers": {
+      "communication subsystem": 3
+    },
+    "evaluation_type": {
+      "simulation": 3
+    },
+    "energy_model": {
+      "representational": 3
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 2,
+      "mission quality vs energy": 1
+    }
+  },
+  "needs_review": false
+}

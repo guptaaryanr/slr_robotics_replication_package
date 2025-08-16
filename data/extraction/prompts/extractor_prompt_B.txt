@@ -1,0 +1,4 @@
+"Task: Produce JSON for metric, domain, major_consumers, evaluation_type, energy_model, techniques, qa_tradeoff, confidence, quote_per_field. "
+"Guidelines: One label per categorical field (except 'techniques' which is a list). "
+"Do NOT invent labels; use only allowed enumerations. If the paper does not use an explicit energy model, set energy_model='other'. "
+"Confidence is in [0,1]. JSON only."

@@ -1,0 +1,13 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "robot exploration",
+  "major_consumers": "sensors",
+  "evaluation_type": "physical",
+  "energy_model": "representational",
+  "techniques": [
+    "computation allocation and scheduling",
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

@@ -1,0 +1,86 @@
+{
+  "runs": [
+    {
+      "metric": "physics-based integrals",
+      "domain": "robot exploration",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.95
+    },
+    {
+      "metric": "physics-based integrals",
+      "domain": "robot exploration",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.95
+    },
+    {
+      "metric": "physics-based integrals",
+      "domain": "robot exploration",
+      "evaluation_type": "simulation",
+      "techniques": [
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.95
+    }
+  ],
+  "chosen": {
+    "domain": "robot exploration",
+    "major_consumers": "motors and actuators",
+    "evaluation_type": "simulation",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "learning or predictive optimization"
+    ],
+    "metric": "physics-based integrals",
+    "confidence": 0.95,
+    "needs_review": false,
+    "_votes": {
+      "domain": {
+        "robot exploration": 3
+      },
+      "major_consumers": {
+        "motors and actuators": 2
+      },
+      "evaluation_type": {
+        "simulation": 3
+      },
+      "energy_model": {
+        "representational": 2
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 3
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "robot exploration": 3
+    },
+    "major_consumers": {
+      "motors and actuators": 2
+    },
+    "evaluation_type": {
+      "simulation": 3
+    },
+    "energy_model": {
+      "representational": 2
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 3
+    }
+  },
+  "needs_review": false
+}

@@ -1,0 +1,12 @@
+{
+  "metric": "relative change versus baseline",
+  "domain": "industrial",
+  "major_consumers": "battery and power electronics",
+  "evaluation_type": "simulation",
+  "energy_model": "other",
+  "techniques": [
+    "power management and idle control"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

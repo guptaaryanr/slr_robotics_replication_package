@@ -1,0 +1,100 @@
+{
+  "runs": [
+    {
+      "metric": "aggregate energy/power",
+      "domain": "robot exploration",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization",
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.8
+    },
+    {
+      "metric": "aggregate energy/power",
+      "domain": "robot exploration",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "hybrid",
+      "energy_model": "other",
+      "techniques": [
+        "motion and trajectory optimization",
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "robot exploration",
+      "major_consumers": "computing and controllers",
+      "evaluation_type": "hybrid",
+      "energy_model": "abstract",
+      "techniques": [
+        "learning or predictive optimization",
+        "motion and trajectory optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "robot exploration",
+    "major_consumers": "motors and actuators",
+    "evaluation_type": "hybrid",
+    "energy_model": "other",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "motion and trajectory optimization",
+      "learning or predictive optimization"
+    ],
+    "metric": "aggregate energy/power",
+    "confidence": 0.9,
+    "needs_review": true,
+    "_votes": {
+      "domain": {
+        "robot exploration": 3
+      },
+      "major_consumers": {
+        "motors and actuators": 2,
+        "computing and controllers": 1
+      },
+      "evaluation_type": {
+        "simulation": 1,
+        "hybrid": 2
+      },
+      "energy_model": {
+        "representational": 1,
+        "other": 1,
+        "abstract": 1
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 3
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "robot exploration": 3
+    },
+    "major_consumers": {
+      "motors and actuators": 2,
+      "computing and controllers": 1
+    },
+    "evaluation_type": {
+      "simulation": 1,
+      "hybrid": 2
+    },
+    "energy_model": {
+      "representational": 1,
+      "other": 1,
+      "abstract": 1
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 3
+    }
+  },
+  "needs_review": true
+}

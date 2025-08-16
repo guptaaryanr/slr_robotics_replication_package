@@ -1,0 +1,26 @@
+# ---- Runtime ----
+python=3.12.4
+pip=25.2
+os=Ubuntu 22.04.5 LTS
+
+# ---- Libraries (top-level only) ----
+pandas=2.3.1
+numpy=2.2.6
+matplotlib=3.10.3
+openai=1.97.0
+requests=2.32.4
+tqdm=4.67.1
+lxml=6.0.0
+
+# ---- External tools ----
+grobid=0.8.3-SNAPSHOT
+publish_or_perish=8.17
+
+# ---- Models & settings ----
+abstracts_model=gpt-4
+fulltext_model=gpt-4-1106-preview
+extraction_model=gpt-4-1106-preview
+temperature=0
+top_p=1.0
+n_runs=3
+seed=42

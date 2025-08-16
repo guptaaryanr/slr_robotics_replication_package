@@ -1,0 +1,13 @@
+{
+  "metric": "aggregate energy/power",
+  "domain": "robot exploration",
+  "major_consumers": "sensors",
+  "evaluation_type": "physical",
+  "energy_model": "representational",
+  "techniques": [
+    "power management and idle control",
+    "computation allocation and scheduling"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.8
+}

@@ -1,0 +1,13 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "service or domestic",
+  "major_consumers": "motors and actuators",
+  "evaluation_type": "simulation",
+  "energy_model": "representational",
+  "techniques": [
+    "motion and trajectory optimization",
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.97
+}

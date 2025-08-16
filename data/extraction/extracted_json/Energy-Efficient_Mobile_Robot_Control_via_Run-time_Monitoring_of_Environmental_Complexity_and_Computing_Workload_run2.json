@@ -1,0 +1,13 @@
+{
+  "metric": "task-normalized energy",
+  "domain": "service or domestic",
+  "major_consumers": "computing and controllers",
+  "evaluation_type": "physical",
+  "energy_model": "representational",
+  "techniques": [
+    "computation allocation and scheduling",
+    "power management and idle control"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.9
+}

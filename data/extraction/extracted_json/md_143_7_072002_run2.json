@@ -1,0 +1,13 @@
+{
+  "metric": "performance per energy",
+  "domain": "additive manufacturing",
+  "major_consumers": "computing and controllers",
+  "evaluation_type": "simulation",
+  "energy_model": "other",
+  "techniques": [
+    "motion and trajectory optimization",
+    "computation allocation and scheduling"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.8
+}

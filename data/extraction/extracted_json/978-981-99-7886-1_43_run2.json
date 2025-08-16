@@ -1,0 +1,6 @@
+{
+  "metric": "aggregate energy/power",
+  "domain": "service or domestic",
+  "evaluation_type": "physical",
+  "confidence": 0.9
+}

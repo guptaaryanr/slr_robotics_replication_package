@@ -1,0 +1,12 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "additive manufacturing",
+  "major_consumers": "battery and power electronics",
+  "evaluation_type": "simulation",
+  "energy_model": "representational",
+  "techniques": [
+    "motion and trajectory optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

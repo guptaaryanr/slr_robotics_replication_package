@@ -1,0 +1,12 @@
+{
+  "metric": "performance per energy",
+  "domain": "iot power",
+  "major_consumers": "communication subsystem",
+  "evaluation_type": "physical",
+  "energy_model": "representational",
+  "techniques": [
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.8
+}

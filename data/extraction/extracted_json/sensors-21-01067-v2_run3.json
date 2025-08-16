@@ -1,0 +1,6 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "service or domestic",
+  "evaluation_type": "simulation",
+  "confidence": 0.85
+}

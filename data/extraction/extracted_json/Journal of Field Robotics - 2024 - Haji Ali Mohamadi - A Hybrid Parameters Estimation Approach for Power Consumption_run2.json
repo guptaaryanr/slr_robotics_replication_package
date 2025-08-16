@@ -1,0 +1,15 @@
+{
+  "metric": "power consumption",
+  "domain": "robot exploration",
+  "major_consumers": "computing and controllers",
+  "evaluation_type": "hybrid",
+  "energy_model": "other",
+  "techniques": [
+    "power management and idle control",
+    "motion and trajectory optimization",
+    "computation allocation and scheduling",
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.9
+}

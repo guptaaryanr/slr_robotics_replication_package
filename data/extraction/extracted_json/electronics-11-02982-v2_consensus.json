@@ -1,0 +1,82 @@
+{
+  "runs": [
+    {
+      "metric": "aggregate energy/power",
+      "domain": "robot exploration",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization"
+      ],
+      "qa_tradeoff": "stability vs energy",
+      "confidence": 0.8
+    },
+    {
+      "metric": "aggregate energy/power",
+      "domain": "robot exploration",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization"
+      ],
+      "qa_tradeoff": "stability vs energy",
+      "confidence": 0.9
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "robot exploration",
+      "evaluation_type": "simulation",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "robot exploration",
+    "major_consumers": "motors and actuators",
+    "evaluation_type": "simulation",
+    "energy_model": "representational",
+    "qa_tradeoff": "stability vs energy",
+    "techniques": [
+      "motion and trajectory optimization"
+    ],
+    "metric": "aggregate energy/power",
+    "confidence": 0.9,
+    "needs_review": false,
+    "_votes": {
+      "domain": {
+        "robot exploration": 3
+      },
+      "major_consumers": {
+        "motors and actuators": 2
+      },
+      "evaluation_type": {
+        "simulation": 3
+      },
+      "energy_model": {
+        "representational": 2
+      },
+      "qa_tradeoff": {
+        "stability vs energy": 2
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "robot exploration": 3
+    },
+    "major_consumers": {
+      "motors and actuators": 2
+    },
+    "evaluation_type": {
+      "simulation": 3
+    },
+    "energy_model": {
+      "representational": 2
+    },
+    "qa_tradeoff": {
+      "stability vs energy": 2
+    }
+  },
+  "needs_review": false
+}

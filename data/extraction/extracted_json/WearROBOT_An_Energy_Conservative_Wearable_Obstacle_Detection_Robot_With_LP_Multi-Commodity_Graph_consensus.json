@@ -1,0 +1,94 @@
+{
+  "runs": [
+    {
+      "metric": "aggregate energy/power",
+      "domain": "iot power",
+      "major_consumers": "sensors",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "power management and idle control",
+        "communication and data efficiency"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9
+    },
+    {
+      "metric": "aggregate energy/power",
+      "domain": "iot power",
+      "major_consumers": "sensors",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "power management and idle control",
+        "computation allocation and scheduling",
+        "communication and data efficiency"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9
+    },
+    {
+      "metric": "aggregate energy/power",
+      "domain": "service or domestic",
+      "major_consumers": "sensors",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "communication and data efficiency"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "iot power",
+    "major_consumers": "sensors",
+    "evaluation_type": "simulation",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "communication and data efficiency",
+      "power management and idle control"
+    ],
+    "metric": "aggregate energy/power",
+    "confidence": 0.9,
+    "needs_review": false,
+    "_votes": {
+      "domain": {
+        "iot power": 2,
+        "service or domestic": 1
+      },
+      "major_consumers": {
+        "sensors": 3
+      },
+      "evaluation_type": {
+        "simulation": 3
+      },
+      "energy_model": {
+        "representational": 3
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 3
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "iot power": 2,
+      "service or domestic": 1
+    },
+    "major_consumers": {
+      "sensors": 3
+    },
+    "evaluation_type": {
+      "simulation": 3
+    },
+    "energy_model": {
+      "representational": 3
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 3
+    }
+  },
+  "needs_review": false
+}

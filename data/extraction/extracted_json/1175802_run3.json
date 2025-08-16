@@ -1,0 +1,9 @@
+{
+  "metric": "task-normalized energy",
+  "domain": "robot exploration",
+  "evaluation_type": "simulation",
+  "techniques": [
+    "motion and trajectory optimization"
+  ],
+  "confidence": 0.85
+}

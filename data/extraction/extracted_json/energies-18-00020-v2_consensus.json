@@ -1,0 +1,94 @@
+{
+  "runs": [
+    {
+      "metric": "energy consumption",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "hybrid",
+      "energy_model": "representational",
+      "techniques": [
+        "learning or predictive optimization",
+        "motion and trajectory optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.7
+    },
+    {
+      "metric": "energy consumption",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "hybrid",
+      "energy_model": "other",
+      "techniques": [
+        "motion and trajectory optimization",
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.8
+    },
+    {
+      "metric": "energy consumption (Wh)",
+      "domain": "industrial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "hybrid",
+      "energy_model": "other",
+      "techniques": [
+        "learning or predictive optimization",
+        "computation allocation and scheduling"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "industrial",
+    "major_consumers": "motors and actuators",
+    "evaluation_type": "hybrid",
+    "energy_model": "other",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "motion and trajectory optimization",
+      "learning or predictive optimization"
+    ],
+    "metric": "energy consumption (Wh)",
+    "confidence": 0.85,
+    "needs_review": false,
+    "_votes": {
+      "domain": {
+        "industrial": 3
+      },
+      "major_consumers": {
+        "motors and actuators": 3
+      },
+      "evaluation_type": {
+        "hybrid": 3
+      },
+      "energy_model": {
+        "representational": 1,
+        "other": 2
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 3
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "industrial": 3
+    },
+    "major_consumers": {
+      "motors and actuators": 3
+    },
+    "evaluation_type": {
+      "hybrid": 3
+    },
+    "energy_model": {
+      "representational": 1,
+      "other": 2
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 3
+    }
+  },
+  "needs_review": false
+}

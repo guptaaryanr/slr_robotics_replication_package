@@ -1,0 +1,9 @@
+{
+  "metric": "performance per energy",
+  "domain": "iot power",
+  "evaluation_type": "simulation",
+  "techniques": [
+    "learning or predictive optimization"
+  ],
+  "confidence": 0.85
+}

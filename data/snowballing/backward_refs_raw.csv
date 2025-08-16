@@ -1,0 +1,493 @@
+year,title,doi
+2020,Multi-robot dynamic task allocation for exploration and destruction Journal of Intelligent & Robotic Systems,10.1007/s10846-019-01081-3
+2023,Design and Optimization of a Magnetic Field Exciter for Controlling Magnetorheological Fluid in a Hybrid Soft-Rigid Jaw Gripper Energies,10.3390/en16052299
+2023,Reward Function and Configuration Parameters in Machine Learning of a Four-Legged Walking Robot Appl. Sci,10.3390/app131810298
+2023,Trajectory planning of large redundant manipulator considering kinematic constraints and energy efficiency Robotica,10.1017/s0263574723001157
+2023,Energy Efficient Path and Trajectory Optimization of Manipulators with Task Deadline Constraints IEEE Access,10.1109/access.2023.3320143
+2346,Finite-horizon kinetic energy optimization of a redundant space manipulator Appl. Sci,10.3390/app11052346
+2020,Application of an artificial neural network for planning the trajectory of a mobile robot J. Autom. Mob. Robot. Intell. Syst,10.14313/jamris/1-2020/2
+2020,Experimental study on a semi-active battery-supercapacitor hybrid energy storage system for electric vehicle application IEEE Trans. Power Electron,10.1109/tpel.2019.2912425
+2020,Optimization based energy management strategy for fuel cell/battery/ultracapacitor hybrid vehicle considering fuel economy and fuel cell lifespan Int. J. Hydrogen Energy,10.1016/j.ijhydene.2020.01.017
+2020,Piezoelectric energy harvesting solutions: A review Sensors,10.3390/s20123512
+2022,Towards the Smart and Sustainable Transformation of Reverse Logistics 4.0: A Conceptualization and Research Agenda Environ. Sci. Pollut. Res,10.1007/s11356-022-22473-3
+2021,A Digital Twin Approach for the Improvement of an Autonomous Mobile Robots (AMR's) Operating Environment-A Case Study Sensors,10.3390/s21237830
+2022,A Method of Verifying the Robot's Trajectory for Goals with a Shared Workspace Appl. Comput. Sci,10.35784/acs-2022-3
+2022,Multi-objective Energy Management for Modern Distribution Power Systems Considering Industrial Flexibility Mechanisms Sustain. Energy Grids Netw,10.1016/j.segan.2022.100825
+2020,An integrated approach for line balancing and AGV scheduling towards smart assembly systems Assem. Autom,10.1108/aa-03-2019-0057
+2021,Reference model of milk-run traffic systems prototyping Int. J. Prod. Res,10.1080/00207543.2020.1766717
+2021,Planning and Control of Autonomous Mobile Robots for Intralogistics: Literature Review and Research Agenda Eur. J. Oper. Res,10.1016/j.ejor.2021.01.019
+2020,Battery Charge Scheduling in Long-Life Autonomous Mobile Robots via Multi-Objective Decision Making under Uncertainty Rob. Auton. Syst,10.1016/j.robot.2020.103629
+2022,Predictive Monitoring System for Autonomous Mobile Robots Battery Management Using the Industrial Internet of Things Technology Materials,10.3390/ma15196561
+2020,Machine Learning Algorithms Performed No Better than Regression Models for Prognostication in Traumatic Brain Injury J. Clin. Epidemiol,10.1016/j.jclinepi.2020.03.005
+2023,Battery State-of-Health Estimation Based on Multiple Charge and Discharge Features,10.1016/j.energy.2022.125637
+2020,Predicting Short-Term Traffic Flow in Urban Based on Multivariate Linear Regression Model J. Intell. Fuzzy Syst,10.3233/jifs-179916
+2022,Multivariable Fractional Polynomials for Lithium-Ion Batteries Degradation Models under Dynamic Conditions J. Energy Storage,10.1016/j.est.2022.104903
+2824,A Prediction Model for Battery Electric Bus Energy Consumption in Transit. Energies 2021,10.3390/en14102824
+2022,Prediction Method for Battery Self-Discharge Voltage Drop Based on Pre-Classifier Measurement,10.1016/j.measurement.2022.112065
+2022,Self-Discharge Prediction Method for Lithium-ion Batteries Based on Improved Support Vector Machine J. Energy Storage,10.1016/j.est.2022.105571
+2022,A Data-Driven Learning Method for Online Prediction of Drone Battery Disharge Aerosp. Sci. Technol,10.1016/j.ast.2022.107921
+2022,End-of-Discharge Prediction for Sattelite Lithium-ion Battery Based on Evidential Reasoning Rule Open Astron,10.1515/astro-2022-0031
+2022,Prediction of Li-Ion Battery Discharge Patterns in IoT Devices Under Random Use Via Machine Learning Algorithms Comput. J,10.1093/comjnl/bxac089
+2022,Thermal simulation and prediction of high-energy LiNi0.8Co0.15Al0.05O2//Si-C pouch battery during rapid discharging J. Energy Storage,10.1016/j.est.2021.103536
+2237,Online Prediction for Remaining Useful Life for Li-Ion Batteries Based on Discharge Voltage Data. Energies 2022,10.3390/en15062237
+2020,Real-World Study for the Optimal Charging of Electric Vehicles. Energy Rep,10.1016/j.egyr.2019.12.008
+2023,Design of topology optimized compliant legs for bio-inspired quadruped robots Sci. Rep,10.1038/s41598-023-32106-5
+2020,What Defines Different Modes of Snake Locomotion? Integr. Comp. Biol,10.1093/icb/icaa017
+2020,"Improving actuation efficiency through variable recruitment hydraulic McKibben muscles: Modeling, orderly recruitment control, and experiments Bioinspir. Biomim",10.1088/1748-3190/11/6/065004
+2021,"De la Escalera, A. Trajectory Planning for Multi-Robot Systems: Methods and Applications Expert Syst. Appl",10.1016/j.eswa.2021.114660
+2021,Optimization Control of Cooperative Trajectory towards Dual Arms Based on Time-Varying Constrained Output State Complexity,10.1155/2021/5338134
+2020,Multimodal Trajectory Optimization for Motion Planning Int. J. Robot. Res,10.1177/0278364920918296
+2020,On Obtaining Energy-Optimal Trajectories for Landing of UAVs Energies,10.3390/en13082062
+2021,An Energy-Saving Optimization Method for Cyclic Pick-and-Place Tasks Based on Flexible Joint Configurations Robot. Comput.-Integr. Manuf,10.1016/j.rcim.2020.102037
+2021,Self-Configuring Robot Path Planning with Obstacle Avoidance via Deep Reinforcement Learning IEEE Control Syst. Lett,10.1109/lcsys.2020.3002852
+2020,Evaluation and Optimization of Dual-Arm Robot Path Planning for Human-Robot Collaborative Tasks in Smart Manufacturing Contexts ASME Lett. Dyn. Syst. Control,10.1115/1.4046577
+2020,Multipopulation Ensemble Particle Swarm Optimizer for Engineering Design Problems Math. Probl. Eng,10.1155/2020/1450985
+2020,Population Size in Particle Swarm Optimization Swarm Evol. Comput,10.1016/j.swevo.2020.100718
+2022,Energy-Efficient Smart Speed Adaptation Based on the Gini Coefficient in Autonomous Mobile Robots,10.3390/electronics11192982
+2021,Modelling the energy consumption of electric vehicles under uncertain and small data conditions Transp. Res. Part Policy Pract,10.1016/j.tra.2021.10.009
+2022,Path planning and smoothing of mobile robot based on improved artificial fish swarm algorithm Sci. Rep,10.1038/s41598-021-04506-y
+2020,Application of the Motion Capture System to Estimate the Accuracy of a Wheeled Mobile Robot Localization. Energies,10.3390/en13236437
+2020,A Multi-Level Simultaneous Minimization Scheme Applied to Jerk-Bounded Redundant Robot Manipulators IEEE Trans. Autom. Sci. Eng,10.1109/tase.2019.2931810
+2021,Parallel random matrix particle swarm optimization scheduling algorithms with budget constraints on cloud computing systems Appl. Soft Comput,10.1016/j.asoc.2021.107914
+2022,Simplified wheel slip modeling and estimation for omnidirectional vehicles Proceedings of the IEEE 17th International Conference on Advanced Motion Control (AMC),10.1109/amc51637.2022.9729312
+2020,A vehicle trajectory tracking method with a time-varying model based on the model predictive control IEEE Access,10.1109/access.2019.2963291
+2020,A learning-aided generic framework for fault detection and recovery of inertial sensors in automated driving systems IEEE Syst. J,10.1109/jsyst.2020.3004805
+2020,Modeling and analysis of GPS-GLONASS navigation for car-like mobile robots J. Electr. Eng. Technol,10.1007/s42835-020-00365-1
+2020,Hybrid global positioning system-adaptive neuro-fuzzy inference system based autonomous mobile robot navigation Robot. Auton. Syst,10.1016/j.robot.2020.103669
+2020,Anomaly-resilient relative pose estimation for multiple nonholonomic mobile robot systems IEEE Syst. J,10.1109/jsyst.2020.3043008
+2021,"Real-time fault detection for Mecanum wheel omnidirectional robot platform Proceedings of the 21st International Conference on Control, Automation and Systems (ICCAS)",10.23919/iccas52745.2021.9649780
+2021,"Fusion of visual and wheel odometry with integrated slip estimation Proceedings of the AIAA Scitech 2021 Forum, Virtual Event",10.2514/6.2021-1757
+2930,An enhanced hybrid visual-inertial odometry system for indoor mobile robots Sensors,10.3390/s22082930
+2024,A Fault Detection System for Wiring Harness Manufacturing Using Artificial Intelligence Mathematics,10.3390/math12040537
+2023,Adaptive fuzzy control of a four-wheeled mobile robot subject to wheel slip Wseas Trans. Syst,10.37394/23202.2023.22.61
+2023,Prescribed-time zero-error active disturbance rejection control for uncertain wheeled mobile robots subject to skidding and slipping Int. J. Syst. Sci,10.1080/00207721.2023.2177898
+2020,Energy estimation for differential drive mobile robots on straight and rotational trajectories Int. J. Adv. Robot. Syst,10.1177/1729881420909654
+2020,Distributed intelligence empowered data aggregation and distribution for multi-robot cooperative communication Proc. IEEE INFOCOM Conf. Comput. Commun. Workshops (INFOCOM WKSHPS),10.1109/infocomwkshps50562.2020.9162700
+2020,Research on SLAM algorithm of mobile robot based on the fusion of 2D LiDAR and depth camera IEEE Access,10.1109/access.2020.3019659
+2020,A ROS-Based Open Tool for Intelligent Robotics Education Appl. Sci,10.3390/app10217419
+2020,Impacts of service robots on service quality Serv. Bus,10.1007/s11628-020-00423-8
+2020,An evaluation of embedded GPU systems for visual SLAM algorithms Electron. Imaging,10.2352/issn.2470-1173.2020.6.iriacv-325
+2022,An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems 2022 IEEE Custom Integrated Circuits Conference (CICC),10.1109/cicc53496.2022.9772870
+2020,"An FPGA-based 3D-2D RANSAC Architecture for Matching Feature Points in RGB-D Slam 2020 5th International Conference on Mechanical, Control and Computer Engineering (ICMCCE)",10.1109/icm-cce51767.2020.00462
+2022,A Hardware Architecture of Feature Extraction for Real-Time Visual SLAM IECON 2022 -48th Annual Conference of the IEEE Industrial Electronics Society,10.1109/iecon49645.2022.9968745
+2020,"Real time System Implementation for Stereo 3D Mapping and Visual Odometry 2020 IEEE 4th International Conference on Image Processing, Applications and Systems (IPAS)",10.1109/ipas50080.2020.9334950
+2023,A Reconfigurable Coprocessor for Simultaneous Localization and Mapping Algorithms in FPGA IEEE Transactions on Circuits and Systems II: Express Briefs,10.1109/tcsii.2022.3198759
+2021,Recent research and development activities on space robotics and ai Adv. Robot,10.1080/01691864.2021.1978861
+2021,Review of in-space assembly technologies Chinese J. Aeronaut,10.1016/j.cja.2020.09.043
+2024,Spiking neural network for ultra-low-latency and high-accurate object detection IEEE Transactions on Neural Networks and Learning Systems,10.1109/tnnls.2024.3372613
+2022,Time optimal trajectory planning based on improved genetic algorithm Manuf Tech Mach,10.19287/j.cnki
+2023,Time optimal trajectory planning for a six-axis paint-retouching robot Mod Mach Tool Aut Manuf Tech,10.13462/j.cnki.mmtamt.2023.06.013
+2021,Research on trajectory planning of hydraulic rock drilling robot arm Chin Jour Cons Mach,10.15999/j.cnki
+2021,A data-driven method for optimizing the energy consumption of industrial robots J Clean Prod,10.1016/j.jclepro.2020.124862
+2023,Application of improved particle swarm optimization in energy consumption prediction Compr Era,10.16644/j.cnki.cn33-1094/tp.2023.07.010
+2022,Recent advances of windsolar hybrid renewable energy systems for power generation: A review IEEE Open J. Ind. Electron. Soc,10.1109/ojies.2022.3144093
+2024,"The dynamics of green innovation, environmental policy and energy structure for environmental sustainability; evidence from AfCFTA countries Renew. Sustain. Energy Rev",10.1016/j.rser.2024.114409
+2021,Review of wheeled mobile robot collision avoidance under unknown environment Sci. Prog,10.1177/00368504211037771
+2021,Analysis and design of fuzzybased manoeuvring model for mid-vehicle collision avoidance system J. Ambient Intell. Humanized Comput,10.1007/s12652-020-02737-x
+2022,A machine learning approach for collision avoidance and path planning of mobile robot under dense and cluttered environments Comput. Electr. Eng,10.1016/j.compeleceng.2022.108376
+2020,Implementation of deep-learning algorithm for obstacle detection and collision avoidance for robotic harvester Comput. Electron. Agricult,10.1016/j.compag.2020.105499
+2023,Collision-free navigation in human-following task using a cognitive robotic system on differential drive vehicles IEEE Trans. Cogn. Develop. Syst,10.1109/tcds.2022.3145915
+2021,Optimization-based collision avoidance IEEE Trans. Control Syst. Technol,10.1109/tcst.2019.2949540
+2022,Distributed motion planning for safe autonomous vehicle overtaking via artificial potential field IEEE Trans. Intell. Transp. Syst,10.1109/tits.2022.3189741
+2024,Autonomous obstacle avoidance and trajectory planning for mobile robot based on dual-loop trajectory tracking control and improved artificial potential field method Actuators,10.3390/act13010037
+2023,New players in intelligent transportation: Autonomous segway in a dynamic environment Eng. Appl. Artif. Intell,10.1016/j.engappai.2023.107107
+2021,Adaptation of gradientbased navigation control for holonomic robots to nonholonomic robots IEEE Robot. Autom. Lett,10.1109/lra.2020.3037855
+2021,Coupled fractional-order sliding mode control and obstacle avoidance of a four-wheeled steerable mobile robot ISA Trans,10.1016/j.isatra.2020.08.025
+2021,Motion planning for autonomous grain carts IEEE Trans. Veh. Technol,10.1109/tvt.2021.3058274
+2023,Trajectory tracking of autonomous vehicle based on model predictive control with PID feedback IEEE Trans. Intell. Transp. Syst,10.1109/tits.2022.3150365
+2021,Model predictive control for the tracking of autonomous mobile robot combined with a local path planning Meas. Control,10.1177/00202940211043070
+2022,Path planning on large curvature roads using driver-vehicle-road system based on the kinematic vehicle model IEEE Trans. Veh. Technol,10.1109/tvt.2021.3130932
+2022,Artificial potential field-based antisaturation positioning obstacle avoidance control for wheeled robots Nonlinear Dyn,10.1007/s11071-022-07778-9
+2024,"Multileader and role-based time-varying formation using GP inference and sliding-mode control IEEE/ASME Trans. Mechatronics, early access",10.1109/tmech.2024.3385716
+2020,"Brain-robot interface-based navigation control of a mobile robot in corridor environments IEEE Trans. Syst., Man, Cybern., Syst",10.1109/tsmc.2018.2833857
+2020,A teleoperation framework for mobile robots based on shared control IEEE Robot. Autom. Lett,10.1109/lra.2019.2959442
+2022,Path planning and tracking for vehicle collision avoidance based on model predictive control with multiconstraints IEEE Trans. Veh. Technol,10.1109/tvt.2016.2555853
+2021,"Constructive aspects of the method of potential fields in mobile robotics Optoelectron., Instrum. Data Process",10.3103/s8756699021040063
+2022,Formation control of multiple wheeled mobile robots based on model predictive control Robotica,10.1017/s0263574722000121
+2024,Examining the performance of Laguerre-based and nonlinear predictive control models for wheeled mobile robots when facing obstacles J. Vib. Control,10.1177/10775463241247960
+2020,Finite-time formation tracking control with collision avoidance for quadrotor UAVs J. Franklin Inst,10.1016/j.jfranklin.2020.01.014
+2024,Event-based adaptive fault tolerant control and collision avoidance of wheel mobile robots with communication limits IEEE Trans. Ind. Electron,10.1109/tie.2024.3366213
+2024,Smart Battery Management System for Electric Vehicles Using IoT 2024 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV),10.1109/icicv62344.2024.00120
+2023,"The Role of IOT & AI in Battery Management of Electric Vehicles 2023 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication (IConSCEPT)",10.1109/iconscept57958.2023.10170275
+2022,IoT-Based Battery Monitoring System for Electric Vehicle 2022 IEEE International Conference on Current Development in Engineering and Technology (CCET),10.1109/ccet56606.2022.10080389
+2024,"Intelligent Battery Protection System for Electric Vehicle Applications 2024 IEEE 18th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG)",10.1109/cpe-powereng60842.2024.10604351
+2022,A Brief Review on Cell Balancing for Li-ion Battery Pack (BMS) 2022 IEEE 10th Power India International Conference (PIICON),10.1109/piicon56320.2022.10045109
+2023,"Advances in Batteries, Battery Modeling, Battery Management System, Battery Thermal Management, SOC, SOH, and Charge/Discharge Characteristics in EV Applications IEEE Access",10.1109/access.2023.3318121
+2021,"Lithium-Ion Battery Pack Robust State of Charge Estimation Cell Inconsistency, and Balancing: Review,"" in IEEE Access",10.1109/access.2021.3068776
+2024,"Burcu Acar Demirci, Review of battery state estimation methods for electric vehicles -Part I: SOC estimation Journal of Energy Storage",10.1016/j.est.2024.111435
+2021,"Research on Functional Safety of Battery Management System (BMS) for Electric Vehicles 2021 International Conference on Intelligent Computing, Automation and Applications (ICAA)",10.1109/icaa53760.2021.00055
+2021,"Regenerative fuel cells: Recent progress, challenges, perspectives and their applications for space energy system Appl Energy",10.1016/j.apenergy.2020.116376
+2020,Assessment of a complete truck operating under dual-mode dual-fuel combustion in real life applications: Performance and emissions analysis Appl Energy,10.1016/j.apenergy.2020.115729
+2022,A data-fusion framework for lithium battery health condition estimation based on differential thermal voltammetry Energy,10.1016/j.energy.2021.122206
+2022,Co-optimization method of speed planning and energy management for fuel cell vehicles through signalized intersections J Power Sources,10.1016/j.jpowsour.2021.230598
+2021,"Co-optimization of total running time, timetables, driving strategies and energy management strategies for fuel cell hybrid trains eTransportation",10.1016/j.etran.2021.100130
+2021,Energy cost and efficiency analysis of building resilience against power outage by shared parking station for electric vehicles and demand response program Energy,10.1016/j.energy.2020.119058
+2020,Anode purge management for hydrogen utilization and stack durability improvement of PEM fuel cell systems Appl Energy,10.1016/j.apenergy.2020.115110
+2022,"A Pareto-based discrete Jaya algorithm for multiobjective carbon-efficient distributed blocking flow shop scheduling problem IEEE Trans. Ind. Inform., early access",10.1109/tii.2022.3220860
+2021,Collaborative robots dataset for energy consumption modeling,10.21227/9wnt-8v86
+2020,A Hybrid Grey Wolf Optimiser Algorithm for Solving Time Series Classification Problems J. Intell. Syst,10.1515/jisys-2018-0129
+2020,Granular Jamming Feet Enable Improved Foot-Ground Interactions for Robot Mobility on Deformable Ground IEEE Robot. Autom. Lett,10.1109/lra.2020.2982361
+2021,On State Estimation for Legged Locomotion over Soft Terrain IEEE Sens. Lett,10.1109/lsens.2021.3049954
+2020,Stance: Locomotion Adaptation over Soft Terrain IEEE Trans. Robot,10.1109/tro.2019.2954670
+2020,The Soft-landing Problem: Minimizing Energy Loss by a Legged Robot Impacting Yielding Terrain IEEE Robot. Autom. Lett,10.1109/lra.2020.2977260
+2020,Examples of Gibsonian Affordances in Legged Robotics Research Using an Empirical Generative Framework. Front. Neurorobot,10.3389/fnbot.2020.00012
+2021,Spatially and Temporally Distributed Data Foraging Decisions in Disciplinary Field Science Cogn. Res. principles implications,10.1186/s41235-021-00296-z
+2021,Controller design for nonlinear bilateral teleoperation systems via total energy shaping Mech. Syst. Signal Process,10.1016/j.ymssp.2020.107239
+2021,A GUAS joint position tracking controller of torque-driven robot manipulators influenced by dynamic Dahl friction: theory and experiments IEEE Trans. Control Syst. Technol,10.1109/tcst.2020.3024134
+2020,Energy-shaping control of soft continuum manipulators with in-plane disturbances Int. J. Robot. Res,10.1177/0278364920907679
+2020,Orbital stabilization of nonlinear systems via mexican sombrero energy shaping and pumping-and-damping injection Automatica,10.1016/j.automatica.2019.108661
+2020,Orbital stabilization of nonlinear systems via the immersion and invariance technique Int. J. Robust Nonlinear Control,10.1002/rnc.4861
+2020,"Research on novel spatial structure of power generation of spherical robot Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering",10.1177/0954408920932358
+2020,"Flexible adaptive control of snake-like robot based on LSTM and gait J. Phys., Conf. Ser",10.1088/1742-6596/1487/1/012049
+2020,Deep reinforcement learning for snake robot locomotion IFAC-PapersOnLine,10.1016/j.ifacol.2020.12.2619
+2022,Development and application of key technologies for Guide Dog Robot: a systematic literature review,10.1016/j.robot.2022.104104
+2021,Towards optimal hydro-blasting in reconfigurable climbing system for corroded ship hull cleaning and maintenance Expert Systems with Applications,10.1016/j.eswa.2020.114519
+2023,Joint control system for motor-wheel electric drives of a robotic transport complex for main pipelines Ucheny`e Zapiski Komsomol`skogo-na-Amure Gosudarstvennogo Tekhnicheskogo Universiteta,10.17084/20764359-2023-71-66
+2023,Energy consumption prediction and optimization of industrial robots based on LSTM Journal of Manufacturing Systems,10.1016/j.jmsy.2023.07.009
+2022,Precision optimized pose and trajectory planning for vertically articulated robot arms Procedia CIRP,10.1016/j.procir.2022.02.176
+2023,"Optimization of energy consumption in industrial robots, a review Cognitive Robotics",10.1016/j.cogr.2023.05.003
+2021,Soft robots Ucheny`e Zapiski Komsomol`skogo-na-Amure Gosudarstvennogo Tekhnicheskogo Universiteta,10.17084/20764359_2021_49_83
+2023,Mathematical modeling and simulation of the inverse kinematic of a redundant robotic manipulator using azimuthal angles and spherical polar piecewise interpolation Mathematics and Computers in Simulation,10.1016/j.matcom.2023.02.010
+2023,A set of algorithms for the operation of the control system of a robotic 3D printing complex Ucheny`e Zapiski Komsomol`skogo-na-Amure Gosudarstvennogo Tekhnicheskogo Universiteta,10.17084/20764359-2023-65-68
+2022,"integrated assessment of emissions, air quality, and public health impacts of China's transition to electric vehicles Environ Sci Technol",10.1021/acs.est.1c06148
+2021,Editorial: challenges on end-of-life battery recycling of electric vehicles Waste Manag,10.1016/j.wasman.2021.09.006
+2020,Economic modeling of robotic disassembly in end-of-life product recovery for remanufacturing Comput Ind Eng,10.1016/j.cie.2020.106339
+2021,Interference probability matrix for disassembly sequence planning under uncertain interference J Manuf Syst,10.1016/j.jmsy.2021.05.014
+2022,Multi-objective optimisation for cell-level disassembly of waste power battery modules in human-machine hybrid mode Waste Manag,10.1016/j.wasman.2022.04.015
+2021,Assessment of the automation potential of electric vehicle battery disassembly J Manuf Syst,10.1016/j.jmsy.2021.03.009
+2020,A new environment-aware scheduling method for remanufacturing system with non-dedicated reprocessing lines using improved flower pollination algorithm J Manuf Syst,10.1016/j.jmsy.2020.08.006
+2020,"Balancing of two-sided disassembly lines: problem definition, MILP model and genetic algorithm approach Comput Oper Res",10.1016/j.cor.2020.105064
+2021,Investigation of the potential for an automated disassembly process of BEV batteries Procedia CIRP,10.1016/j.procir.2021.01.151
+2020,Service platform for robotic disassembly planning in remanufacturing J Manuf Syst,10.1016/j.jmsy.2020.10.005
+2022,Task allocation and planning for product disassembly with human-robot collaboration Robot Comput Integr Manuf,10.1016/j.rcim.2021.102306
+2020,Reinforcement learning for facilitating human-robot-interaction in manufacturing J Manuf Syst,10.1016/j.jmsy.2020.06.018
+2020,A case study in human-robot collaboration in the disassembly of press-ftted components Proc Inst Mech Eng Part B: J Eng Manuf,10.1177/0954405419883060
+2021,A hybrid disassembly framework for disassembly of electric vehicle batteries Int J Energy Res,10.1002/er.6364
+2023,A novel knowledgedriven flexible human-robot hybrid disassembly line and its key technologies for electric vehicle batteries J Manuf Syst,10.1016/j.jmsy.2023.04.005
+2021,Human-robot collaboration disassembly planning for end-of-life product disassembly process Robot Comput-Integr Manuf,10.1016/j.rcim.2021.102170
+2022,Disassembly task planning for end-of-life automotive traction batteries based on ontology and partial destructive rules J Manuf Syst,10.1016/j.jmsy.2021.12.006
+2020,Electric vehicle battery disassembly sequence planning based on frame-subgroup structure combined with genetic algorithm Front Mech Eng,10.3389/fmech.2020.576642
+2021,Constraint programming approaches to disassembly line balancing problem with sequencing decisions Comput Oper Res,10.1016/j.cor.2020.105111
+2021,Optimizing a disassembly sequence planning with success rates of disassembly operations via a variable neighborhood search algorithm IEEE Access,10.1109/access.2021.3101221
+2021,Just-in-time scheduling for a distributed concrete precast flow shop system Comput Oper Res,10.1016/j.cor.2020.105204
+2020,Biased random-key genetic algorithm for cobot assignment in an assembly/disassembly job shop scheduling problem Procedia Comput Sci,10.1016/j.procs.2021.01.170
+2022,Design and Building of PLTS Load Supply Control System Using Pulse Width Modulation (PWM) and Real Time Clock (RTC) J. Tek. Mesin Sinergi,10.31963/sinergi.v20i1.3452
+2022,Development of a Stirring Robot Prototype Using Temperature and Humidity Sensors to Monitor Grain Dryness Levels Based on the Internet of Things J. Tek. Mesin Sinergi,10.31963/sinergi.v20i1.3483
+2023,Prototype Mechanical Control System for Rice Mixer Robot Based on Internet of Things J. Tek. Mesin Sinergi,10.31963/sinergi.v21i1.4222
+2022,A Dynamically Reconfigurable Autonomous Underwater Robot for Karst Exploration: Design and Experiment Sensors,10.3390/s22093379
+2022,Development of an Artificial Neural Network Control Allocation Algorithm for Small Tailless Aircraft Based on Dynamic Allocation Method Int. J. Aeronaut. Space Sci,10.1007/s42405-021-00425-4
+2020,Experiments on whole-body control of a dual-arm mobile robot with the Set-Based Task-Priority Inverse Kinematics algorithm Proceedings of the 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),10.1109/iros45743.2020.9341638
+2020,"Robot Action Planning by Commonsense Knowledge in Human-Robot Collaborative Tasks Proceedings of the 2020 IEEE International IOT, Electronics and Mechatronics Conference (IEMTRONICS)",10.1109/iemtronics51293.2020.9216410
+2020,Determining the optimum installation of energy storage systems in railway electrical infrastructures by means of swarm and evolutionary optimization algorithms Int. J. Electr. Power Energy Syst,10.1016/j.ijepes.2020.106295
+2020,Trajectory Planning in Joint Space for a Pointing Mechanism Based on a Novel Hybrid Interpolation Algorithm and NSGA-II Algorithm IEEE Access,10.1109/access.2020.3042890
+2021,Optimal Trajectory Planning for Wheeled Mobile Robots under Lo-calization Uncertainty and Energy Efficiency Constraints Sensors,10.3390/s21020335
+2022,Human footstep power harvesting systems using piezoelectric sensor technology 2022 international mobile and embedded technology conference (MECON),10.1109/mecon53876.2022.9752131
+2020,Design of internet of things based smart and efficient water distribution system for urban and agriculture areas J Comput Theor Nanosci,10.1166/jctn.2020.9301
+2020,Agri.q: a sustainable rover for precision agriculture Springer Proceedings in Energy,10.1007/978-3-030-55757-7_6
+2022,Robotics Applied to Precision Agriculture: The Sustainable Agri.q Rover Case Study Proceedings of I4SDG Workshop 2021. Mechanisms and Machine Science,10.1007/978-3-030-87383-7_5
+2020,"Coordinated chassis control of 4WD vehicles utilizing differential braking, traction distribution and active front steering IEEE Access",10.1109/access.2020.2990729
+2020,"Survey on wheel slip control design strategies, evaluation and application to antilock braking systems IEEE Access",10.1109/access.2020.2965644
+2020,Model predictive control of an all-wheel drive vehicle considering input and state constraints Int J Automot Technol,10.1007/s12239-020-0046-3
+2020,A Model Predictive Control Strategy for Lateral and Longitudinal Dynamics in Autonomous Driving 22nd International Conference on Advanced Vehicle Technologies (AVT),10.1115/detc2020-22287
+2020,Torque vectoring system design for hybrid electric-all wheel drive vehicle Proc Inst Mech Eng Part D,10.1177/0954407020906626
+2020,Characterization and modelling of various sized mountain bike tires and the effects of tire tread knobs and inflation pressure Number: 9 Publisher,10.3390/app10093156
+2023,Multi-Defect Detection Network for High-Voltage Insulators Based on Adaptive Multi-Attention Fusion Appl. Sci,10.3390/app132413351
+2020,A Review on State-of-the-Art Power Line Inspection Techniques IEEE Trans. Instrum. Meas,10.1109/tim.2020.3031194
+2020,Application of Norm Optimal Iterative Learning Control to Quadrotor Unmanned Aerial Vehicle for Monitoring Overhead Power System. Energies,10.3390/en13123223
+2020,Cooperative UAV-UGV Autonomous Power Pylon Inspection: An Investigation of Cooperative Outdoor Vehicle Positioning Architecture Sensors,10.3390/s20216384
+2021,UAV-Lidar Aids Automatic Intelligent Powerline Inspection Int. J. Electr. Power Energy Syst,10.1016/j.ijepes.2021.106987
+2022,Automatic Obstacle-Crossing Planning for a Transmission Line Inspection Robot Based on Multisensor Fusion IEEE Access,10.1109/access.2022.3183125
+2020,"Power Transmission Line Inspection Robots: A Review, Trends and Challenges for Future Research Int. J. Electr. Power Energy Syst",10.1016/j.ijepes.2020.105862
+2023,Vision-Based Autonomous Landing of a Hybrid Robot on a Powerline IEEE Trans. Instrum. Meas,10.1109/tim.2022.3224524
+2020,Energy Efficient UAV Communication with Energy Harvesting IEEE Trans. Veh. Technol,10.1109/tvt.2019.2961993
+2020,Least-Energy Path Planning with Building Accurate Power Consumption Model of Rotary Unmanned Aerial Vehicle IEEE Trans. Veh. Technol,10.1109/tvt.2020.3040537
+2022,Optimal Energy Consumption Path Planning for Quadrotor UAV Transmission Tower Inspection Based on Simulated Annealing Algorithm. Energies,10.3390/en15218036
+2021,Energy Efficiency Path Planning for a Quadrotor Aerial Vehicle Trans. Inst. Meas. Control,10.1177/01423312211058560
+2022,UAV Trajectory Planning from a Comprehensive Energy Efficiency Perspective in Harsh Environments IEEE Netw,10.1109/mnet.006.2100697
+2023,An Optimized Fuzzy Deep Learning Model for Data Classification Based on NSGA-II Neurocomputing,10.1016/j.neucom.2022.12.027
+2020,Cost Optimization of Secure Routing with Untrusted Devices in Software Defined Networking J. Parallel Distrib. Comput,10.1016/j.jpdc.2020.03.021
+2020,Robust Design Optimization and Emerging Technologies for Electrical Machines: Challenges and Open Problems Appl. Sci,10.3390/app10196653
+2020,An integrated processing energy modeling and optimization of automated robotic polishing system Robot. Comput. Integr. Manuf,10.1016/j.rcim.2020.101973
+2021,Optimization of technological parameters of robotized mechanical processing processes of aviation products. Current problems and ways of industry development: Equipment and technologies Lect. Notes Netw. Syst. 200,10.1007/978-3-030-69421-0_22
+2021,Installation of automatic welding of elements of ship pipelines,10.37220/mit.2021.52.2.057
+2020,Using the capabilities of neural networks to adapt the parameters of PID regulation in automatic control systems of low-power boilers. Int. Multi-Conference Industrial Eng Mod. Technol. FarEastCon,10.1109/fareastcon50210.2020.9271418
+2021,Process automation for robot-based manufacturing components of prospective aviation complexes. Current problems and ways of industry development: Equipment and technologies Lect. Notes Netw. Syst. 200,10.1007/978-3-030-69421-0_20
+2021,Intelligent deep neuro-fuzzy system of abnormal situation recognition for transport systems Lect. Notes Netw. Syst,10.1007/978-3-030-69421-0_24
+2021,A feasible method for evaluating energy consumption of industrial robots Proceedings of the 2021 IEEE 16th Conference on Industrial Electronics and Applications (ICIEA),10.1109/iciea51954.2021.9516218
+2023,SVF-RRT*: A Stream-Based VF-RRT* for USVs Path Planning Considering Ocean Currents IEEE Robot. Autom. Lett,10.1109/lra.2023.3245409
+2021,An Improved PSO Algorithm for Smooth Path Planning of Mobile Robots Using Continuous High-Degree Bezier Curve Appl. Soft Comput,10.1016/j.asoc.2020.106960
+2021,Path Planning Optimization of Indoor Mobile Robot Based on Adaptive Ant Colony Algorithm Comput. Ind. Eng,10.1016/j.cie.2021.107230
+2022,A Deep Reinforcement Learning Based Method for Real-Time Path Planning and Dynamic Obstacle Avoidance Neurocomputing,10.1016/j.neucom.2022.05.006
+2020,A Novel Step Optimal Path Planning Algorithm for the Spherical Mobile Robot Based on Fuzzy Control IEEE Access,10.1109/access.2019.2962074
+2022,Dynamic Analysis and Path Planning of a Turtle-Inspired Amphibious Spherical Robot. Micromachines,10.3390/mi13122130
+2021,Improved Hybrid A* Path Planning Method for Spherical Mobile Robot Based on Pendulum Int. J. Adv. Robot. Syst,10.1177/1729881421992958
+2020,"Dynamic Modeling, Energy Analysis, and Path Planning of Spherical Robots on Uneven Terrains IEEE Robot. Autom. Lett",10.1109/lra.2020.3010489
+2022,A 3-D Multi-Object Path Planning Method for Electric Vehicle Considering the Energy Consumption and Distance IEEE Trans. Intell. Transport. Syst,10.1109/tits.2021.3071319
+2020,Mission-Oriented 3D Path Planning for High-Altitude Long-Endurance Solar-Powered UAVs With Optimal Energy Management IEEE Access,10.1109/access.2020.3045934
+2020,A Novel Real-Time Penetration Path Planning Algorithm for Stealth UAV in 3D Complex Dynamic Environment IEEE Access,10.1109/access.2020.3007496
+2020,Multi-robot informative path planning in unknown environments through continuous region partitioning Int. J. Adv. Robot. Syst,10.1177/1729881420970461
+2023,"A comprehensive review of cyber-attacks and defense mechanisms for improving security in smart grid energy systems: Past, present and future Electr. Power Syst. Res",10.1016/j.epsr.2022.108975
+2023,A data-driven approach for intrusion and anomaly detection using automated machine learning for the Internet of Things Soft Comput,10.1007/s00500-023-09037-4
+2023,Collaborative prediction and detection of DDoS attacks in edge computing: A deep learning-based approach with distributed SDN Comput. Netw,10.1016/j.comnet.2023.109642
+2021,"Secure Multi-Robot Adaptive Information Sampling Proceedings of the 2021 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)",10.1109/ssrr53300.2021.9597867
+2020,Security and privacy in smart farming: Challenges and opportunities IEEE Access,10.1109/access.2020.2975142
+2023,Blockchain-based federated learning for securing internet of things: A comprehensive survey ACM Comput. Surv,10.1145/3560816
+2023,Eco-CSAS: A Safe and Eco-Friendly Speed Advisory System for Autonomous Vehicle Platoon Using Consortium Blockchain IEEE Trans. Intell. Transp. Syst,10.1109/tits.2022.3232851
+2023,Green Blockchain based IoT for secured supply chain of hazardous materials Comput. Ind. Eng,10.1016/j.cie.2022.108814
+2023,A trust based time-constrained PoW for blockchain in internet of things Comput. Netw,10.1016/j.comnet.2022.109480
+2022,A review of Li-ion batteries for autonomous mobile robots: Perspectives and outlook for the future J. Power Sources,10.1016/j.jpowsour.2022.231943
+2023,An energy-efficient multi-objective integrated process planning and scheduling for a flexible job-shop-type remanufacturing system Adv. Eng. Inf,10.1016/j.aei.2023.102010
+2022,Energy-efficient scheduling in job shop manufacturing systems: a literature review Sustainability,10.3390/su14106264
+2022,Many-objective evolutionary algorithm with reference pointbased fuzzy correlation entropy for energy-efficient job shop scheduling with limited workers IEEE Trans. Cybern,10.1109/tcyb.2021.3069184
+2021,Green logistics oriented tug scheduling for inland waterway logistics Adv. Eng. Inf,10.1016/j.aei.2021.101323
+2020,"A multi-population, multi-objective memetic algorithm for energy-efficient job-shop scheduling with deteriorating machines Expert Syst. Appl",10.1016/j.eswa.2020.113348
+2022,Novel approach to energyefficient flexible job-shop scheduling problems Energy,10.1016/j.energy.2021.121773
+2022,A route and speed optimization model to find conflict-free routes for automated guided vehicles in large warehouses based on quick response code technology Adv. Eng. Inf,10.1016/j.aei.2022.101604
+2022,Real-time data-driven dynamic scheduling for flexible job shop with insufficient transportation resources using hybrid deep Q network Rob. Comput. Integr. Manuf,10.1016/j.rcim.2021.102283
+2023,A novel MILP model for job shop scheduling problem with mobile robots Rob. Comput. Integr. Manuf,10.1016/j.rcim.2022.102506
+2022,A spatio-temporal constrained hierarchical scheduling strategy for multiple warehouse mobile robots under industrial cyber-physical system Adv. Eng. Inf,10.1016/j.aei.2022.101572
+2022,Integrated scheduling of machines and automated guided vehicles (AGVs) in flexible job shop environment using genetic algorithms Int. J. Ind. Eng. Comput,10.5267/j.ijiec.2022.2.002
+2021,Production and transport scheduling in flexible job shop manufacturing systems J. Glob. Optim,10.1007/s10898-021-00992-6
+2022,A hybrid iterated greedy algorithm for a crane transportation flexible job shop problem IEEE Trans. Automat. Sci. Eng,10.1109/tase.2021.3062979
+2022,A multiobjective evolutionary algorithm for achieving energy efficiency in production environments integrated with multiple automated guided vehicles Knowl.-Based Syst,10.1016/j.knosys.2022.108315
+2023,Energy-efficient job shop scheduling problem with transport resources considering speed adjustable resources Int. J. Prod. Res,10.1080/00207543.2023.2175172
+2021,Energy-efficient scheduling for a flexible job shop with machine breakdowns considering machine idle time arrangement and machine speed level selection Comput. Ind. Eng,10.1016/j.cie.2021.107677
+2022,A knowledge-based multiobjective memetic algorithm for green job shop scheduling with variable machining speeds IEEE Syst. J,10.1109/jsyst.2021.3076481
+2022,Hybrid energy-efficient scheduling measures for flexible job-shop problem with variable machining speeds Expert Syst. Appl,10.1016/j.eswa.2022.116785
+2024,Knowledge-driven two-stage memetic algorithm for energy-efficient flexible job shop scheduling with machine breakdowns Expert Syst. Appl,10.1016/j.eswa.2023.121149
+2022,Research on flexible job-shop scheduling problem in green sustainable manufacturing based on learning effect J. Intell. Manuf,10.1007/s10845-020-01713-8
+2021,Evolutionary algorithms for multiobjective flexible job shop cell scheduling Appl. Soft Comput,10.1016/j.asoc.2021.107890
+2022,A novel heuristic method for the energy-efficient flexible job-shop scheduling problem with sequence-dependent set-up and transportation time Eng. Optimiz,10.1080/0305215x.2021.1949007
+2022,Knowledge-based reinforcement learning and estimation of distribution algorithm for flexible job shop scheduling problem IEEE Trans. Emerg. Top. Comput. Intell,10.1109/tetci.2022.3145706
+2021,Research on flexible job shop scheduling under finite transportation conditions for digital twin workshop Rob. Comput. Integr. Manuf,10.1016/j.rcim.2021.102198
+2020,Transfer-robot task scheduling in flexible job shop J. Intell. Manuf,10.1007/s10845-020-01537-6
+2023,A multistart biased random key genetic algorithm for the flexible job shop scheduling problem with transportation Int. Trans Operational Res,10.1111/itor.12878
+2023,A learning-based multi-population evolutionary optimization for flexible job shop scheduling problem with finite transportation resources IEEE Trans. Evol. Computat,10.1109/tevc.2022.3219238
+2023,An improved genetic algorithm for solving the multi-agv flexible job shop scheduling problem Sensors,10.3390/s23083815
+2024,A novel mathematical model for the flexible job-shop scheduling problem with limited automated guided vehicles IEEE Trans. Automat. Sci. Eng,10.1109/tase.2024.3356255
+2021,A novel multiobjective optimization algorithm for the integrated scheduling of flexible job shops considering preventive maintenance activities and transportation processes Soft. Comput,10.1007/s00500-020-05347-z
+2021,A hybrid estimation of distribution algorithm for distributed flexible job shop scheduling with crane transportations Swarm Evol. Comput,10.1016/j.swevo.2021.100861
+2022,A reinforcement learning approach for flexible job shop scheduling problem with crane transportation and setup times IEEE Trans. Neural Netw. Learning Syst,10.1109/tnnls.2022.3208942
+2021,Bi-objective grey wolf optimization algorithm combined Levy flight mechanism for the FMC green scheduling problem Appl. Soft Comput,10.1016/j.asoc.2021.107717
+2022,The low-carbon scheduling optimization of integrated multispeed flexible manufacturing and multi-agv transportation Processes,10.3390/pr10101944
+2023,Multi-objective green scheduling of integrated flexible job shop and automated guided vehicles Eng. Appl. Artif. Intel,10.1016/j.engappai.2023.106864
+2022,An effective two-stage algorithm based on convolutional neural network for the bi-objective flexible job shop scheduling problem with machine breakdown Expert Syst. Appl,10.1016/j.eswa.2022.117460
+2020,An improved genetic algorithm for the flexible job shop scheduling problem with multiple time constraints Swarm Evol. Comput,10.1016/j.swevo.2020.100664
+2021,A hybrid many-objective evolutionary algorithm for flexible job-shop scheduling problem with transportation and setup times Comput. Oper. Res,10.1016/j.cor.2021.105263
+2024,A DQN-based memetic algorithm for energy-efficient job shop scheduling problem with integrated limited AGVs Swarm Evol. Comput,10.1016/j.swevo.2024.101544
+2023,A hybrid genetic algorithm for distributed hybrid blocking flowshop scheduling problem J. Manuf. Syst,10.1016/j.jmsy.2023.09.017
+2023,An improved genetic algorithm with modified critical path-based searching for integrated process planning and scheduling problem considering automated guided vehicle transportation task J. Manuf. Syst,10.1016/j.jmsy.2023.07.004
+2024,Tabu search based on novel neighborhood structures for solving job shop scheduling problem integrating finite transportation resources Rob. Comput. Integr. Manuf,10.1016/j.rcim.2024.102782
+2022,A matrix cube-based estimation of distribution algorithm for the energy-efficient distributed assembly permutation flow-shop scheduling problem Expert Syst. Appl,10.1016/j.eswa.2021.116484
+2021,Development of experimental setup for determining the parameters of DC motors used in mobile robots Journal of Polytechnic,10.2339/politeknik.762077
+2022,Air pollution impacts on public health: Evidence from 110 cities in Yangtze River Economic Belt of China Sci. Total Environ,10.1016/j.scitotenv.2022.158125
+2022,Effect of high-level fine particulate matter and its interaction with meteorological factors on AECOPD in Shijiazhuang China. Sci. Rep,10.1038/s41598-022-12791-4
+2022,The influence of air pollution exposure on the short-and long-term health benefits associated with active mobility: A systematic review Sci. Total Environ,10.1016/j.scitotenv.2022.157978
+2020,Development of drone real-time air pollution monitoring for mobile smart sensing in areas with poor accessibility Sens. Mater,10.18494/sam.2020.2450
+2021,"Wildland fire emission sampling at Fishlake National Forest, Utah using an unmanned aircraft system Atmos. Environ",10.1016/j.atmosenv.2021.118193
+2022,MesSBAR-Multicopter and Instrumentation for Air Quality Research. Atmosphere,10.3390/atmos13040629
+2021,Vertical profiling of black carbon and ozone using a multicopter unmanned aerial vehicle (UAV) in urban Shenzhen of South China Sci. Total Environ,10.1016/j.scitotenv.2021.149689
+2020,An optimized multicopter UAV sounding technique (MUST) for probing comprehensive atmospheric variables Chemosphere,10.1016/j.chemosphere.2020.126867
+2020,Assessing 3-D Spatial Extent of Near-Road Air Pollution around a Signalized Intersection Using Drone Monitoring and WRF-CFD Modeling Int. J. Environ. Res. Public Health,10.3390/ijerph17186915
+2022,Autonomous Multi-Rotor Aerial Platform for Air Pollution Monitoring Sensors,10.3390/s22030860
+2020,Developing of Low-Cost Air Pollution Sensor-Measurements with the Unmanned Aerial Vehicles in Poland Sensors,10.3390/s20123582
+2021,Development of Drone-Mounted Multiple Sensing System with Advanced Mobility for In Situ Atmospheric Measurement: A Case Study Focusing on PM2.5 Local Distribution Sensors,10.3390/s21144881
+2021,The effectiveness of drones in measuring particulate matter J. Aerosol Sci,10.1016/j.jaerosci.2020.105702
+2021,Optimization of air pollution measurements with unmanned aerial vehicle low-cost sensor based on an inductive knowledge management method Optim. Eng,10.1007/s11081-021-09668-2
+2022,Drone-Assisted Monitoring of Atmospheric Pollution: A Comprehensive Review,10.3390/su141811516
+2020,Long-Term Evaluation and Calibration of Low-Cost Particulate Matter (PM) Sensor Sensors,10.3390/s20133617
+2020,Comparison of Low-Cost Particulate Matter Sensors for Indoor Air Monitoring during COVID-19 Lockdown Sensors,10.3390/s20247290
+2020,Laboratory Comparison of Low-Cost Particulate Matter Sensors to Measure Transient Events of Pollution Sensors,10.3390/s20082219
+2022,Evaluation of Selected Algorithms for Air Pollution Source Localisation Using Drones. Sustainability,10.3390/su14053049
+2021,Recent Progress and Trend of Robot Odor Source Localization IEEJ Trans. Electr. Electron. Eng,10.1002/tee.23364
+2022,CFD analysis of a multi-rotor flying robot for air pollution inspection J. Phys. Conf. Ser,10.1088/1742-6596/2367/1/012010
+2020,Time Minimization of Rescue Action Realized by an Autonomous Vehicle,10.3390/electronics9122099
+2022,Computational Fluid Dynamics (CFD) Aided Design of a Multi-rotor Flying Robot for Locating Sources of Particulate Matter Pollution Appl. Comput. Sci,10.35784/acs-2022-23
+2020,Literature review of Industry 4.0 and related technologies J. Intell. Manuf,10.1007/s10845-018-1433-8
+2022,Real-Time Updating High-Order Extended Kalman Filtering Method Based on Fixed-Step Life Prediction for Vehicle Lithium-Ion Batteries Sensors,10.3390/s22072574
+2022,A multiple working mode approach to robotic hammering: Analysis and experiments Robotica,10.1017/s0263574721000680
+2020,On Task-Specific Redundant Actuation of Spring-Assisted Modular and Reconfigurable Robot IEEE International Conference on Mechatronics and Automation,10.1109/icma49215.2020.9233553
+2022,An energy efficiency index for elastic actuators during resonant motion Robotica,10.1017/s0263574721001211
+2020,On the Use of (Lockable) Parallel Elasticity in Active Prosthetic Ankles IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS,10.1109/iros45743.2020.9341679
+2024,Design and Optimization of the Wall Climbing Robot for Magnetic Particle Detection of Ship Welds J. Mar. Sci. Eng,10.3390/jmse12040610
+2023,A review of recent developments in friction stir welding for various industrial applications J. Mar. Sci. Eng,10.3390/jmse12010071
+2022,Online obstacle avoidance path planning and application for arc welding robot Robot Comput. Integr. Manuf,10.1016/j.rcim.2022.102413
+2021,Welding robot path planning problem based on discrete MOEA/D with hybrid environment selection Neural. Comput. Appl,10.1007/s00521-021-05939-2
+2022,Adaptive path planning for the gantry welding robot system J. Manuf. Process,10.1016/j.jmapro.2022.07.005
+2020,AnD: A many-objective evolutionary algorithm with angle-based selection and shift-based density estimation Inf. Sci,10.1016/j.ins.2018.06.063
+2023,Intelligent control of multilegged robot smooth motion: a review IEEE Access,10.1109/access.2023.3304992
+2023,NAS-YOLOX: A SAR ship detection using neural architecture search and multi-scale attention Conn. Sci,10.1080/09540091.2023.2257399
+2021,A reinforcement learning approach for dynamic multi-objective optimization Inf. Sci,10.1016/j.ins.2020.08.101
+2020,Deterministic Policy Gradient Adaptive Dynamic Programming for Model-Free Optimal Control Neurocomputing,10.1016/j.neucom.2019.11.032
+2023,Deep reinforcement learning for multi-objective combinatorial optimization: A case study on multi-objective traveling salesman problem Swarm Evol. Comput,10.1016/j.swevo.2023.101398
+2020,3D Concrete Printing Sustainability: A Comparative Life Cycle Assessment of Four Construction Method Scenarios Buildings,10.3390/buildings10120245
+2023,Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer: A Review Buildings,10.3390/buildings12112023
+2022,Lightweight 3D Printed Concrete Beams Show an Environmental Promise: A Cradle-to-Grave Comparative Life Cycle Assessment Clean Technol. Environ. Policy,10.21203/rs.3.rs-1253072/v1
+2021,A 3D concrete printing prefabrication platform for bespoke columns,10.1016/j.autcon.2020.103467
+2022,A review of geometry representation and processing methods for cartesian and multiaxial robot-based additive manufacturing Int. J. Adv. Manuf. Technol,10.1007/s00170-022-10432-8
+2022,Industrial robot energy consumption analysis for gravity-induced opposing force minimization Proceedings of the 2022 IEEE 7th International Energy Conference (ENERGYCON),10.1109/energycon53164.2022.9830240
+2020,Energy consumption parameter analysis of industrial robots using design of experiment methodology Int. J. Sustain. Eng,10.1080/19397038.2020.1805040
+2022,"Robotic Arm Design, Development and Control for Printing Cement Mixtures MM Sci. J",10.17973/mmsj.2022_03_2021182
+2022,Structure Design and Solution of Kinematics of Robot Manipulator for 3D Concrete Printing IEEE Trans. Autom. Sci. Eng,10.1109/tase.2021.3133138
+2021,A new way to design software for industrial automation-3d printer cement mixtures MM Sci. J,10.17973/mmsj.2021_03_2020063
+2022,"Large-scale automated additive construction: overview, robotic solutions, sustainability, and future prospect Sustainability",10.3390/su14159782
+2023,Deep learning based robot cognitive architecture for collaborative assembly tasks Robot. Comput. Integr. Manuf,10.1016/j.rcim.2023.102572
+2020,"A novel volume decomposition methodology for multi-robots collaborative additive manufacturing Proceedings of the IEEE 4th Conference on Information & Communication Technology (CICT) D, IEEE",10.1109/cict51604.2020.9312088
+2021,Resource-constrained scheduling for multi-robot cooperative three-dimensional printing J. Mech. Des. Trans. ASME,10.1115/1.4050380
+2023,Decentralized and centralized planning for multi-robot additive manufacturing J. Mech. Des. Trans. ASME,10.1115/1.4055735
+2022,Optimizing multi-robot placements for wire arc additive manufacturing Proceedings of the International Conference on Robotics and Automation (ICRA),10.1109/icra46639.2022.9812318
+2023,Energy-efficient and quality-aware part placement in robotic additive manufacturing J. Manuf. Syst,10.1016/j.jmsy.2023.05.019
+2022,A state-of-the-art review on robotic milling of complex parts with high efficiency and precision Robot. Comput. Integr. Manuf,10.1016/j.rcim.2022.102436
+2022,Safe and minimum-time path-following problem for collaborative industrial robots J. Manuf. Syst,10.1016/j.jmsy.2022.10.020
+2022,Eco-programming of industrial robots for sustainable manufacturing via dynamic time scaling of trajectories Robot. Comput. Integr. Manuf,10.1016/j.rcim.2022.102420
+2023,"Optimization of energy consumption in industrial robots, a review Cogn. Robot",10.1016/j.cogr.2023.05.003
+2020,"Energy efficiency in robotics software: a systematic literature review Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering Workshops, ASEW 2020",10.1145/3417113.3422997
+2023,Scheduling a dual gripper material handling robot with energy considerations J. Manuf. Syst,10.1016/j.jmsy.2023.01.011
+2021,Energy consumption distribution and optimization of additive manufacturing Int. J. Adv. Manuf. Technol,10.1007/s00170-021-07653-8
+2021,Optimizing part placement for improving accuracy of robot-based additive manufacturing Proceedings of the IEEE International Conference on Robotics and Automation 2021,10.1109/icra48506.2021.9561494
+2020,Introduction to Applied Optimization,10.1007/978-3-030-55404-0
+2021,"Towards 6G wireless communication networks: vision, enabling technologies, and new paradigm shifts Sci China Inf Sci",10.1007/s11432-020-2955-6
+2020,Network for hypersonic UCAV swarms Sci China Inf Sci,10.1007/s11432-019-2765-7
+2020,"Reinforcement learning for a cellular Internet of UAVs: protocol design, trajectory control, and resource management",10.1109/mwc.001.1900262
+2020,Anti-intelligent UAV jamming strategy via deep Q-Networks IEEE Trans Commun,10.1109/tcomm.2019.2947918
+2020,Reinforcement-learning-based relay mobility and power allocation for underwater sensor networks against jamming IEEE J Ocean Eng,10.1109/joe.2019.2910938
+2020,Managing irrigation under pressure: How supply chain demands and environmental objectives drive imbalance in agricultural resilience to water shortages Agric. Water Manag,10.1016/j.agwat.2020.106484
+2021,IoT based smart agrotech system for verification of Urban farming parameters Microprocess. Microsyst,10.1016/j.micpro.2021.104025
+2021,Model-free finite-time terminal sliding mode control with a novel adaptive sliding mode observer of uncertain robot systems Asian J. Control,10.1002/asjc.2542
+2020,Hybrid fractional fuzzy PID design for MPPT-pitch control of wind turbine-based bat algorithm Electr. Eng,10.1007/s00202-020-01007-5
+2021,PID++: A Computationally Lightweight Humanoid Motion Control Algorithm Sensors,10.3390/s21020456
+2021,Intelligent Parameter Identification for Robot Servo Controller Based on Improved Integration Method Sensors,10.3390/s21124177
+2020,Stabilization of Robots with a Regulator Containing the Sigmoid Mapping IEEE Access,10.1109/access.2020.2994004
+2020,A note on attractivity for the intersection of two discontinuity manifolds Opusc. Math,10.7494/opmath.2020.40.6.685
+2020,The Optimization of Machining Parameters for Milling Operations by Using the Nelder-Mead Simplex Method J. Manuf. Mater. Process,10.3390/jmmp4030066
+2020,Self-Regulating Artificial-Free Linear Programming Solver Using a Jump and Simplex Method Mathematics,10.3390/math8030356
+2021,An RFID-based assistive glove to help the visually impaired IEEE Trans. Instrum. Meas,10.1109/tim.2021.3069834
+2022,Unsupervised simto-real adaptation for environmental recognition in assistive walking IEEE Trans. Neural Syst. Rehabil. Eng,10.1109/tnsre.2022.3176410
+2020,Synchronous transmissions in lowpower wireless: A survey of communication protocols and network services ACM Comput. Surv,10.1145/3410159
+2020,Concurrent transmission based data sharing with run-time variation of TDMA schedule IEEE LCN,10.1109/lcn48667.2020.9314855
+2022,Efficient coordination among electrical vehicles: An IoT-assisted approach IEEE INFOCOM WKSHPS,10.1109/infocomwkshps54753.2022.9797944
+2022,IoT-assisted low-cost traffic volume measurement and control COMSNETS,10.1109/comsnets53615.2022.9668354
+2020,Start of frame delimiters (SFDs) for simultaneous intra-group one-to-all dissemination IEEE LCN,10.1109/lcn48667.2020.9314842
+2020,Fine-grained frequencies for simultaneous intra-group one-to-all dissemination IEEE MASS,10.1109/mass50613.2020.00064
+2022,Simultaneous intra-group communication: Understanding the problem space IEEE INFOCOM,10.1109/infocomwkshps54753.2022.9798071
+2020,Managing computational complexity using surrogate models: a critical review Res Eng Design,10.1007/s00163-020-00336-7
+2020,Surrogate Modeling of Electrical Machine Torque Using Artificial Neural Networks IEEE Access,10.1109/access.2020.3042834
+2020,An Integrated Processing Energy Modeling and Optimization of Automated Robotic Polishing System Robotics and Computer-Integrated Manufacturing,10.1016/j.rcim.2020.101973
+2020,Multi-Objective Genetic Algorithm for Energy-Efficient Hybrid Flow Shop Scheduling with Lot Streaming Annals of Operations Research,10.1007/s10479-018-2969-x
+2021,Mathematical Formulations for the Parallel Machine Scheduling Problem with a Single Server International Journal of Production Research,10.1080/00207543.2020.1807637
+2024,Energy-Efficient Job Shop Scheduling Problem with Transport Resources Considering Speed Adjustable Resources International Journal of Production Research,10.1080/00207543.2023.2175172
+2024,Minimising Interference for Scheduling Two Parallel Machines with a Single Server International Journal of Production Research,10.1080/00207543.2014.961211
+2023,Look-Ahead Based Reinforcement Learning for Robotic Flow Shop Scheduling Journal of Manufacturing Systems,10.1016/j.jmsy.2023.02.002
+2023,Green Smart Manufacturing: Energy-Efficient Robotic Job Shop Scheduling Models International Journal of Production Research,10.1080/00207543.2022.2112989
+2022,Torque-limited simple pendulum: A toolkit for getting familiar with control algorithms in underactuated robotics Journal of Open Source Software,10.21105/joss.03884
+2021,Definition of Agricultural Supply Chains and Sustainability Issues From Linear to Circular Food Supply Chains: Achieving Sustainable Change,10.1007/978-3-030-72673-7_2
+2022,"Powering agriculture: Present status, future potential, and challenges of renewable energy applications Renew. Energy",10.1016/j.renene.2022.02.065
+2022,"Chapter 10-Applications of robotic and solar energy in precision agriculture and smart farming Solar Energy Advancements in Agriculture and Food Production Systems; Gorjian, S",10.1016/b978-0-323-89866-9.00011-0
+2021,Using a depth camera for crop row detection and mapping for under-canopy navigation of agricultural robotic vehicle Comput. Electron. Agric,10.1016/j.compag.2021.106301
+2021,A robot-based intelligent management design for agricultural cyber-physical systems Comput. Electron. Agric,10.1016/j.compag.2020.105967
+2021,Advances in agriculture robotics: A state-of-the-art review and challenges ahead Robotics,10.3390/robotics10020052
+2022,A review of high-throughput field phenotyping systems: Focusing on ground robots. Plant Phenomics,10.34133/2022/9760269
+2021,EV Overnight Charging Strategy in Residential Sector: Case of Winter Season in Quebec,10.3390/vehicles3030034
+2020,A review of battery state of health estimation methods: Hybrid electric vehicle challenges World Electr. Veh. J,10.3390/wevj11040066
+2020,A review of the integrated design and control of electrified vehicles Energies,10.3390/en13205454
+2022,Sizing of a Plug-In Hybrid Electric Vehicle with the Hybrid Energy Storage System World Electr. Veh. J,10.3390/wevj13070110
+2020,US Department of Energy hydrogen and fuel cell technologies perspectives MRS Bull,10.1557/mrs.2019.312
+2020,Sequential sensor fusion-based real-time LSTM gait pattern controller for biped robot IEEE Sensors J,10.1109/jsen.2020.3016968
+2022,Assessing the impact of industrial robots on manufacturing energy intensity in 38 countries Energy Econ,10.1016/j.eneco.2021.105748
+2020,Optimal Model-Based Trajectory Planning with Static Polygonal Constraints IEEE Trans. Control. Syst. Technol,10.1109/tcst.2021.3094617
+2022,Time Optimal Trajectory Planning Based on Improved Sparrow Search Algorithm. Front. Bioeng. Biotechnol,10.3389/fbioe.2022.852408
+2022,Improving Local Trajectory Optimization by Enhanced Initialization and Global Guidance IEEE Access,10.1109/access.2022.3159233
+2021,Real-time recognition of team behaviors by multisensory graph-embedded robot learning Int. J. Robot. Res,10.1177/02783649211043155
+2022,Novel technique for control of industrial robots with wearable and contactless technologies Meas. J. Int. Meas. Confed,10.1016/j.measurement.2022.110850
+2021,A Wearable IMU System for Flexible Teleoperation of a Collaborative Industrial Robot Sensors,10.3390/s21175871
+2021,"Editorial of Special Issue ""Combining Sensors and Multibody Models for Applications in Vehicles, Machines, Robots and Humans Sensors",10.3390/s21196345
+2022,"Reactivity and statefulness: Action-based sensors, plans, and necessary state Int. J. Robot. Res",10.1177/02783649221078874
+2022,Energy-Efficient Path Planning of Reconfigurable Robots in Complex Environments IEEE Trans. Robot,10.1109/tro.2022.3147408
+2020,Dynamic Modelling and Motion Controller Design for Industrial Palletizing Robot and Collision Detection IOP Conf. Ser. Mater. Sci. Eng,10.1088/1757-899x/790/1/012157
+2020,A new joint friction model for parameter identification and sensor-less hand guiding in industrial robots Ind. Robot,10.1108/ir-03-2020-0053
+2021,Improvement of Trajectory Tracking by Robot Manipulator Based on a New Co-Operative Optimization Algorithm Mathematics,10.3390/math9243231
+2020,Quantum genetic algorithm to evolve controllers for self-reconfigurable modular robots World J. Eng,10.1108/wje-02-2019-0032
+2021,A transfer-learning based energy consumption modeling method for industrial robots J. Clean. Prod,10.1016/j.jclepro.2021.129299
+2020,Time-optimal and Smooth Trajectory Planning for Robot Manipulators Int. J. Control. Autom. Syst,10.1007/s12555-019-0703-3
+2020,Task Location for High Performance Human-Robot Collaboration J. Intell. Robot. Syst,10.1007/s10846-020-01181-5
+2023,An Optimal Node A* Algorithm for Path Planning of Wheeled Mobile Robot Under Optimal Energy Consumption Mechanical Science and Technology for Aerospace Engineering,10.13433/j.cnki.1003-8728.20220038
+2021,A Human-Computer Interaction Framework for Emotion Recognition through Time-Series Thermal Video Sequences Comput. Electr. Eng,10.1016/j.compeleceng.2021.107280
+2023,Artificial Emotional Intelligence: Conventional and Deep Learning Approach Expert Syst. Appl,10.1016/j.eswa.2022.118651
+2021,BLSTM and CNN Stacking Architecture for Speech Emotion Recognition Neural Process. Lett,10.1007/s11063-021-10581-z
+2021,Explainable DCNN based chest X-ray image analysis and classification for COVID-19 pneumonia detection Sci. Rep,10.1038/s41598-021-95680-6
+2020,Deep-net: A lightweight CNN-based speech emotion recognition system using deep frequency features Sensors,10.3390/s20185212
+2020,A Deep Neural Network Combined CNN and GCN for Remote Sensing Scene Classification IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens,10.1109/jstars.2020.3011333
+2023,Speech Emotion Recognition Based on Graph-LSTM Neural Network EURASIP J. Audio Speech Music. Process,10.1186/s13636-023-00303-9
+2020,The Carbon Impact of Artificial Intelligence Nat. Mach. Intell,10.1038/s42256-020-0219-9
+2022,Real-Time Implementation of Face Recognition and Emotion Recognition in a Humanoid Robot Using a Convolutional Neural Network IEEE Access,10.1109/access.2022.3200762
+2023,Real-Time Emotion Generation in Human-Robot Dialogue Using Large Language Models Front. Robot. AI,10.3389/frobt.2023.1271610
+2021,A Multimodal Emotional Human-Robot Interaction Architecture for Social Robots Engaged in Bidirectional Communication IEEE Trans. Cybern,10.1109/tcyb.2020.2974688
+2022,Multi-environment robotic transitions through adaptive morphogenesis Nature,10.1038/s41586-022-05188-w
+2023,The green innovation effect of urban energy saving construction: a quasi-natural experiment from new energy demonstration city policy J Clean Prod,10.1093/ooenergy/oiae012/7828250
+2021,Research progress and development trend of surgical robot and surgical instrument arm Int J Med Robot Comput Assist Surg,10.1002/rcs.2309
+2022,Stability analysis of the food delivery robot with suspension damping structure Heliyon,10.1016/j.heliyon.2022.e12127
+2020,"How to secure autonomous mobile robots? An approach with fuzzing, detection and mitigation J Syst Archit",10.1016/j.sysarc.2020.101838
+2020,Autonomous mobile robots in hospital logistics IFIP International Conference on Advances in Production Management Systems,10.1007/978-3-030-57993-7_76
+2022,UV disinfection robots: a review Robot Auton Syst,10.1016/j.robot.2022.104332
+2020,Multi-objective path planning of an autonomous mobile robot using hybrid PSO-MFB optimization algorithm Appl Soft Comput,10.1016/j.asoc.2020.106076
+2023,Action plans on the reduction of mobility energy consumption based on personal mobility activation Energy,10.1016/j.energy.2022.126019
+2021,A new algorithm for ecofriendly path guidance focused on electric vehicles Energy,10.1016/j.energy.2021.121198
+2020,Autonomous discovery of battery electrolytes with robotic experimentation and machine learning Cell Rep Phys Sci,10.1016/j.xcrp.2020.100264
+2020,Received signal strength indicator-based indoor localization using distributed set-membership filtering IEEE Trans. Cybern,10.1109/tcyb.2020.2983544
+2021,Variance-constrained resilient H ∞ filtering for mobile robot localization under dynamic event-triggered communication mechanism Asian J. Control,10.1002/asjc.2581
+2021,Solar Grass Cutter Using Embedded Platform An Experimental Validation IOP Conf. Ser. Mater. Sci. Eng,10.1088/1757-899x/1057/1/012086
+2020,Design of smart autonomous remote monitored solar powered lawnmower robot Mater. Today Proc,10.1016/j.matpr.2020.04.633
+2022,International Journal of Research Publication and Reviews,10.55248/gengpi.2023.4149
+2022,Solar Powered Grass Cutter for Domestic Utilization † Eng. Proc,10.3390/engproc2021012105
+2020,Android Controlled Solar based Grass Cutter Robot Int. J. Eng. Res,10.17577/ijertv9is070276
+2020,Adaptive synchronization of multi-agent systems with resilience to communication link faults Automatica,10.1016/j.automatica.2019.108636
+2020,Bit-Rate Conditions for the Consensus of Quantized Multiagent Systems Based on Event Triggering IEEE transactions on cybernetics,10.1109/tcyb.2020.2977969
+2023,Electric Drive with an Adaptive Controller and Wireless Communication System Future Internet,10.3390/fi15020049
+2022,"8. Modern control theory. Part 2. Applied aspects of modern control theory [Electronic resource]: textbook for students of specialty 151 ""Automation and computer-integrated technologies"", specializations ""Automated control of technological processes Computer",10.1016/j.engappai.2021.104519
+2022,Speed control method for dual-flexible manipulator with a telescopic arm considering bearing friction based on adaptive PI controller with DOB Alexandria Engineering Journal,10.1016/j.aej.2021.10.026
+2020,A Fuzzy Unscented Kalman Filter in the Adaptive Control System of a Drive System with a Flexible Joint Energies,10.3390/en13082056
+2023,Virtual Signal Calculation Using Radial Neural Model Applied in a State Controller of a Two-Mass System Energies,10.3390/en16155629
+2023,Adaptive recurrent neural network for uncertainties estimation in feedback control system Robotic trajectory tracking control system based on fuzzy neural network,10.1016/j.measen.2023.10100613
+2021,Psychophysics-based cognitive reinforcement learning to optimize humanrobot interaction in power-assisted object manipulation IHSI 2021,10.1007/978-3-030-68017-6_9
+2020,Mine tunnel exploration using multiple quadrupedal robots IEEE Robot. Autom. Lett,10.1109/lra.2020.2972872
+2020,Gait planning and control of quadruped crawling robot on a slope Ind. Robot. Int. J. Robot. Res. Appl,10.1108/ir-05-2019-0115
+2023,Research on Gait Switching Control of Quadruped Robot Based on Dynamic and Static Combination IEEE Access,10.1109/access.2023.3240190
+2020,Analysis and optimization of interpolation points for quadruped robots joint trajectory Complexity,10.1155/2020/3507679
+2023,Trajectory-free dynamic locomotion using key trend states for biped robots with point feet Inf. Sci,10.1007/s11432-021-3450-5
+2023,Optimization of energy consumption of industrial robots using classical PID and MPC controllers Energies,10.3390/en16083499
+2020,Minimizing the energy consumption for a hexapod robot based on optimal force distribution IEEE Access,10.1109/access.2019.2962527
+2022,"Recent Advances in Bipedal Walking Robots: Review of Gait, Drive, Sensors and Control Systems Sensors",10.3390/s22124440
+2023,Energy-Optimal Planning of Robot Trajectory Based on Dynamics. Arab J. Sci. Eng,10.1007/s13369-022-07185-7
+2023,Energy-saving control of rolling speed for spherical robot based on regenerative damping. Nonlinear Dyn,10.1007/s11071-023-08233-z
+2020,Quadrupedal Locomotion on Uneven Terrain With Sensorized Feet IEEE Robot. Autom. Lett,10.1109/lra.2020.2969160
+2020,Small-Sized Reconfigurable Quadruped Robot With Multiple Sensory Feedback for Studying Adaptive and Versatile Behaviors Front. Neurorobot,10.3389/fnbot.2020.00014
+2024,Improved dynamic windows approach based on energy consumption management and fuzzy logic control for local path planning of mobile robots Comput. Ind. Eng,10.1016/j.cie.2023.109767
+2022,Fuel cell hybrid electric vehicles: A review of topologies and energy management strategies World Electr. Veh. J,10.3390/wevj13090172
+2021,Accuracy analysis in mobile robot machining of large-scale workpiece Robot. Comput.-Integr. Manuf,10.1016/j.rcim.2021.102153
+2024,J. Research on Energy Management Strategy for Series Hybrid Tractor under Typical Operating Conditions Based on Dynamic Programming. World Electr. Veh. J,10.3390/wevj15040156
+2024,Robot Motion Planning Based on an Adaptive Slime Mold Algorithm and Motion Constraints World Electr. Veh. J,10.3390/wevj15070296
+2023,A Novel Approach for a Predictive Online ECMS Applied in Electrified Vehicles Using Real Driving Data World Electr. Veh. J,10.3390/wevj14120353
+2024,Omnidirectional AGV Path Planning Based on Improved Genetic Algorithm. World Electr. Veh. J,10.3390/wevj15040166
+2023,Power solutions for autonomous mobile robots: A survey Robot. Auton. Syst,10.1016/j.robot.2022.104285
+2023,Comparison of battery electric vehicles and fuel cell vehicles World Electr. Veh. J,10.3390/wevj14090262
+2020,"Energy management of fuel cell electric vehicles based on working condition identification of energy storage systems, vehicle driving performance, and dynamic power factor J. Energy Storage",10.1016/j.est.2020.101760
+2021,Online energy management strategy for fuel cell hybrid electric vehicles with installed PV on roof IEEE Trans. Ind. Appl,10.1109/tia.2021.3061323
+2024,Research on Power Optimization for Energy System of Hydrogen Fuel Cell Wheel-Driven Electric Tractor World Electr. Veh. J,10.3390/wevj15050188
+2021,Hybrid fuel cell powered drones energy management strategy improvement and hydrogen saving using real flight test data Energy Convers. Manag,10.1016/j.enconman.2021.113987
+2021,A novel second-order sliding mode control of hybrid fuel cell/super capacitors power system considering the degradation of the fuel cell Energy Convers. Manag,10.1016/j.enconman.2020.113766
+2022,Evaluation of the Accuracy of the Identified Equivalent Electrical Circuit of LiPePO 4 Battery through Verified Measurements,10.3390/batteries8050038
+2024,New classification of industrial robotic gripping systems for sustainable production Sci. Rep,10.1038/s41598-023-50673-5
+2024,"Application, development and future opportunities of collaborative robots (cobots) in manufacturing: A literature review Int. J. Hum.-Comput. Interact",10.1080/10447318.2022.2041907
+2024,Mathematical model and evaluation of dynamic stability of industrial robot manipulator: Universal robot Syst. Soft Comput,10.1016/j.sasc.2023.200071
+2020,An iterative approach for accurate dynamic model identification of industrial robots IEEE Trans. Robot,10.1109/tro.2020.2990368
+2023,Energy consumption prediction and optimization of industrial robots based on LSTM J. Manuf. Syst,10.1016/j.jmsy.2023.07.009
+2024,Planning through Model Inversion of an Underactuated Spatial Gantry Crane Moving in Structured Cluttered Environments Actuators,10.3390/act13050176
+2024,Sensor-Based Identification of Singularities in Parallel Manipulators Actuators,10.3390/act13050168
+2021,Modeling and optimization of implementation aspects in industrial robot coordination Robot. Comput.-Integr. Manuf,10.1016/j.rcim.2020.102097
+2024,A general energy modeling network for serial industrial robots integrating physical mechanism priors Robot. Comput.-Integr. Manuf,10.1016/j.rcim.2024.102761
+2022,An accurate identification method based on double weighting for inertial parameters of robot payloads Robotica,10.1017/s0263574722000960
+2023,Comparing Long Short-Term Memory (LSTM) and bidirectional LSTM deep neural networks for power consumption prediction Energy Rep,10.1016/j.egyr.2023.09.175
+2021,Solar powered semi-automated multipurpose agriculture machine Materials Today: Proceedings,10.1016/j.matpr.2020.11.864
+2020,"Studies on off-grid solar photovoltaic-powered micro-irrigation system in aerobic rice cultivation for sustainable agriculture and mitigating greenhouse gas emission Innovation in Electrical Power Engineering, Communication, and Computing Technology",10.1016/j.enconman.2020.113377
+2022,Design and implementation of solar-powered with IoT-enabled portable irrigation system Internet of Things and Cyber-Physical Systems,10.1016/j.iotcps.2022.12.002
+2020,"Disclaimer/Publisher's Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods IEEE Access",10.1109/access.2020.2990567

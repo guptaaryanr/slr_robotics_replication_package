@@ -1,0 +1,6 @@
+{
+  "metric": "average power (W)",
+  "domain": "robot exploration",
+  "evaluation_type": "simulation",
+  "confidence": 0.9
+}

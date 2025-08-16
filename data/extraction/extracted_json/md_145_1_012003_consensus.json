@@ -1,0 +1,85 @@
+{
+  "runs": [
+    {
+      "metric": "relative change versus baseline",
+      "domain": "swarm or multi-robot",
+      "major_consumers": "communication subsystem",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "learning or predictive optimization"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "metric": "relative change versus baseline",
+      "domain": "swarm or multi-robot",
+      "major_consumers": "communication subsystem",
+      "evaluation_type": "simulation",
+      "energy_model": "other",
+      "techniques": [
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.8
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "additive manufacturing",
+      "evaluation_type": "simulation",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "swarm or multi-robot",
+    "major_consumers": "communication subsystem",
+    "evaluation_type": "simulation",
+    "energy_model": "other",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "learning or predictive optimization"
+    ],
+    "metric": "composite objective including energy",
+    "confidence": 0.85,
+    "needs_review": true,
+    "_votes": {
+      "domain": {
+        "swarm or multi-robot": 2,
+        "additive manufacturing": 1
+      },
+      "major_consumers": {
+        "communication subsystem": 2
+      },
+      "evaluation_type": {
+        "simulation": 3
+      },
+      "energy_model": {
+        "representational": 1,
+        "other": 1
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 1
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "swarm or multi-robot": 2,
+      "additive manufacturing": 1
+    },
+    "major_consumers": {
+      "communication subsystem": 2
+    },
+    "evaluation_type": {
+      "simulation": 3
+    },
+    "energy_model": {
+      "representational": 1,
+      "other": 1
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 1
+    }
+  },
+  "needs_review": true
+}

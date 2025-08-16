@@ -1,0 +1,11 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "additive manufacturing",
+  "evaluation_type": "physical",
+  "energy_model": "abstract",
+  "techniques": [
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "accuracy vs energy",
+  "confidence": 0.85
+}

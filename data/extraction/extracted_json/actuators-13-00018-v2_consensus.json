@@ -1,0 +1,89 @@
+{
+  "runs": [
+    {
+      "metric": "composite objective including energy",
+      "domain": "service or domestic",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization",
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.97
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "robot exploration",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization",
+        "learning or predictive optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.97
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "robot exploration",
+      "evaluation_type": "hybrid",
+      "confidence": 0.9
+    }
+  ],
+  "chosen": {
+    "domain": "robot exploration",
+    "major_consumers": "motors and actuators",
+    "evaluation_type": "simulation",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "motion and trajectory optimization",
+      "learning or predictive optimization"
+    ],
+    "metric": "composite objective including energy",
+    "confidence": 0.97,
+    "needs_review": false,
+    "_votes": {
+      "domain": {
+        "service or domestic": 1,
+        "robot exploration": 2
+      },
+      "major_consumers": {
+        "motors and actuators": 2
+      },
+      "evaluation_type": {
+        "simulation": 2,
+        "hybrid": 1
+      },
+      "energy_model": {
+        "representational": 2
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 2
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "service or domestic": 1,
+      "robot exploration": 2
+    },
+    "major_consumers": {
+      "motors and actuators": 2
+    },
+    "evaluation_type": {
+      "simulation": 2,
+      "hybrid": 1
+    },
+    "energy_model": {
+      "representational": 2
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 2
+    }
+  },
+  "needs_review": false
+}

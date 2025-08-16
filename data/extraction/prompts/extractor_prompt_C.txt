@@ -1,0 +1,12 @@
+"You will output JSON per schema with enum-only labels. If uncertain, use 'other'. JSON only.\n\n"
+"Example 1 (condensed):\n"
+"Text: 'evaluated in Gazebo; measured average power (W); technique: motion planning; trade-off: performance vs energy'\n"
+'Output: {"metric":"average power (W)","domain":"robot exploration","major_consumers":"motors and actuators",'
+'"evaluation_type":"simulation","energy_model":"representational","techniques":["motion and trajectory optimization"],'
+'"qa_tradeoff":"performance vs energy","confidence":0.78,"quote_per_field":{}}\n\n'
+"Example 2 (condensed):\n"
+"Text: 'hybrid evaluation; DVFS and duty-cycling; no explicit model; trade-off: reliability vs energy'\n"
+'Output: {"metric":"energy consumption (Wh)","domain":"service or domestic","major_consumers":"computing and controllers",'
+'"evaluation_type":"hybrid","energy_model":"other","techniques":["power management and idle control"],'
+'"qa_tradeoff":"reliability or accuracy vs energy","confidence":0.70,"quote_per_field":{}}\n\n'
+"Now extract for this paper:"

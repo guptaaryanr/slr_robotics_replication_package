@@ -1,0 +1,6 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "robot exploration",
+  "evaluation_type": "hybrid",
+  "confidence": 0.85
+}

@@ -1,0 +1,83 @@
+{
+  "runs": [
+    {
+      "metric": "relative change versus baseline",
+      "domain": "robot exploration",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "hybrid",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization",
+        "computation allocation and scheduling"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9856
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "robot exploration",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "hybrid",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.9856
+    },
+    {
+      "metric": "validation statistics",
+      "domain": "robot exploration",
+      "evaluation_type": "hybrid",
+      "confidence": 0.9856
+    }
+  ],
+  "chosen": {
+    "domain": "robot exploration",
+    "major_consumers": "motors and actuators",
+    "evaluation_type": "hybrid",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "motion and trajectory optimization"
+    ],
+    "metric": "relative change versus baseline",
+    "confidence": 0.9856,
+    "needs_review": false,
+    "_votes": {
+      "domain": {
+        "robot exploration": 3
+      },
+      "major_consumers": {
+        "motors and actuators": 2
+      },
+      "evaluation_type": {
+        "hybrid": 3
+      },
+      "energy_model": {
+        "representational": 2
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 2
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "robot exploration": 3
+    },
+    "major_consumers": {
+      "motors and actuators": 2
+    },
+    "evaluation_type": {
+      "hybrid": 3
+    },
+    "energy_model": {
+      "representational": 2
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 2
+    }
+  },
+  "needs_review": false
+}

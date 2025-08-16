@@ -1,0 +1,13 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "iot power",
+  "major_consumers": "communication subsystem",
+  "evaluation_type": "simulation",
+  "energy_model": "representational",
+  "techniques": [
+    "learning or predictive optimization",
+    "communication and data efficiency"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

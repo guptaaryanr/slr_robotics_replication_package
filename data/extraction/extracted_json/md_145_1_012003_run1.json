@@ -1,0 +1,11 @@
+{
+  "metric": "relative change versus baseline",
+  "domain": "swarm or multi-robot",
+  "major_consumers": "communication subsystem",
+  "evaluation_type": "simulation",
+  "energy_model": "representational",
+  "techniques": [
+    "learning or predictive optimization"
+  ],
+  "confidence": 0.75
+}

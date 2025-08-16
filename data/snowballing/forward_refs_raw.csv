@@ -1,0 +1,286 @@
+year,title,doi
+2024,Modeling analysis and experiment for energy system of ocean energy driven unmanned marine vehicle: The Yulang II case study,https://doi.org/10.1002/rob.22290
+2021,Comparison of Energy Prediction Algorithms for Differential and Skid-Steer Drive Mobile Robots on Different Ground Surfaces,https://doi.org/10.3390/en14206722
+2024,Automated mission planning for aerial large‐scale power plant thermal inspection,https://doi.org/10.1002/rob.22320
+2024,Energy Utilization Prediction Techniques for Heterogeneous Mobile Robots: A Review,https://doi.org/10.3390/en17133256
+2024,Energy-oriented optimization of the task allocation for mobile robots,https://doi.org/10.1016/j.procir.2024.08.321
+2023,Energy and Performance Analysis of Robotic Applications Using Artificial Neural Network,https://doi.org/10.4018/978-1-6684-6596-7.ch006
+2023,Impact of PS Load on FPGA Object Detection System Performance,https://doi.org/10.5954/icarob.2023.os17-5
+2022,Autonomous Multiple Robots Exploration using Evolutionary Optimization Algorithm,https://doi.org/10.1109/icesc54411.2022.9885392
+2025,UV‐C Disinfection Robots: A Systematic Review,https://doi.org/10.1002/rob.22555
+2024,Feasibility Study of the Seven-Bar Linkage 7-PR(RRRR)RP Used for Medical Disinfection Robot,https://doi.org/10.3390/robotics13120177
+2023,Dynamic Optimization of Mechanism Parameters of Bipedal Robot Considering Full-Range Walking Energy Efficiency,https://doi.org/10.3390/app131910791
+2024,UV-C Disinfection Robots: A Systematic Review,https://doi.org/10.22541/au.171766302.20385033/v1
+2025,Collision-free Navigation of a Sensorless Autonomous Robot in Indoor Environments with Moving and Steady Obstacles,https://doi.org/10.1109/med64031.2025.11073315
+2022,Characterization of motion power loss of off‐road wheeled robot in a slippery terrain,https://doi.org/10.1002/rob.22116
+2024,Performance Guarantee for Autonomous Robotic Missions using Resource Management: The PANORAMA Approach,https://doi.org/10.1007/s10846-024-02058-7
+2022,Amelioration of Energy Dissipation Through Robotic Evacuation Process of Solid Bulk Materials: Effectiveness of Wheel Slip Control System,https://doi.org/10.1007/s13369-022-07371-7
+2024,A Hybrid Parameters Estimation Approach for Power Consumption Modeling of Ground Mobile Robots With Unknown Payload,https://doi.org/10.1002/rob.22470
+2022,Performing Energy-Efficient Motions for Wheeled Mobile Robots by Designing an Orientation Controller,https://doi.org/10.1007/978-3-031-20490-6_12
+2025,DUALIPA: a new immune plasma algorithm for path planning of unmanned aerial vehicles,https://doi.org/10.1007/s10586-024-04941-2
+2021,Trajectory Planning of Robot Manipulator Based on RBF Neural Network,https://doi.org/10.3390/e23091207
+2023,Optimal Path Planning Through a Sequence of Waypoints,https://doi.org/10.1109/lra.2023.3240662
+2021,Path Planning in Uncertain Environment With Moving Obstacles Using Warm Start Cross Entropy,https://doi.org/10.1109/tmech.2021.3071723
+2022,A centroid opposition-based coral reefs algorithm for solving an automated guided vehicle routing problem with a recharging constraint,https://doi.org/10.1016/j.asoc.2022.109504
+2024,Route and Speed Co-optimization for Improving Energy Consumption of Connected Vehicles,https://doi.org/10.1109/tmech.2024.3399019
+2022,Power Consumption Modeling of Wheeled Mobile Robots With Multiple Driving Modes,https://doi.org/10.1109/tie.2022.3217603
+2021,An overview: on path planning optimization criteria and mobile robot navigation,https://doi.org/10.1088/1742-6596/1988/1/012036
+2023,Joint Optimization for Transport and Bucket Loading Phases of Automated Wheel Loaders,https://doi.org/10.1109/tmech.2023.3274416
+2024,Optimizing Energy Efficiency with Configuration Constraints for AMR Trajectory Planning,https://doi.org/10.23919/acc60939.2024.10644786
+2024,B-Splined Trajectory Modified Generation to Maximize Speed of the Nonholonomic AMR Robot,https://doi.org/10.36897/jme/196037
+2025,A novel hybrid LSTM and masked multi-head attention based network for energy consumption prediction of industrial robots,https://doi.org/10.1016/j.apenergy.2024.125223
+2025,Industrial Robots and Urban Carbon Emissions: Exploring Mechanisms and Implications,https://doi.org/10.1002/sd.3401
+2024,A general energy modeling network for serial industrial robots integrating physical mechanism priors,https://doi.org/10.1016/j.rcim.2024.102761
+2025,"Optimal trajectory planning for industrial robots: Minimizing time, jerk, and energy consumption using LSTM for energy profile modeling",https://doi.org/10.1177/10775463251333481
+2024,Industrial robot energy consumption model identification: A coupling model-driven and data-driven paradigm,https://doi.org/10.1016/j.eswa.2024.125604
+2025,Energy consumption modeling based on operation mechanisms of industrial robots,https://doi.org/10.1016/j.rcim.2025.102971
+2025,A novel methodology for saturation setting in parabolic ramp profiles for trajectory planning,https://doi.org/10.1007/s42452-025-06875-9
+2025,A Lightweight Deep Learning Framework using Resource-Efficient Batch Normalization for Sarcasm Detection,https://doi.org/10.32628/cseit251143
+2025,Integrating Energy and Time Efficiency in Robotic Manufacturing Cell Design: A Methodology for Optimizing Workplace Layout,https://doi.org/10.3390/machines13010038
+2025,A Data-Driven Approach for Energy Consumption Modeling and Optimization of Welding Robot Systems,https://doi.org/10.3390/machines13060532
+2024,Optimizing Energy Consumption of Industrial Robots with Model-Based Layout Design,https://doi.org/10.3390/su16031053
+2024,Regression Model for the Prediction of Total Motor Power Used by an Industrial Robot Manipulator during Operation,https://doi.org/10.3390/machines12040225
+2024,Power estimation models of a 7-axis robotic arm with simulated manufacturing applications,https://doi.org/10.1007/s00170-024-14338-5
+2021,Persistence Region Monitor With a Pheromone-Inspired Robot Swarm Sensor Network,https://doi.org/10.1109/jiot.2021.3133501
+2023,Distributed Weighted Coverage for Multi-Robot Systems in Non-Convex Environment,https://doi.org/10.3390/app13148530
+2022,Multi-Robot Formation Control Based on CVT Algorithm and Health Optimization Management,https://doi.org/10.3390/app12020755
+2022,Voronoi Coverage Based on Improved Artificial Potential Field,https://doi.org/10.1109/icmee56406.2022.10093383
+2022,Multi-robot Coverage System Based on Health Optimization Management Algorithm,https://doi.org/10.1007/978-981-19-3998-3_86
+2022,Coverage control for a multi-robot team with heterogeneous capabilities using block coordinate descent (BCD) method,https://doi.org/10.14711/thesis-991013106344203412
+2022,Coverage Control for a Multi-robot Team with Heterogeneous Capabilities using Block Coordinate Descent (BCD) Method,https://doi.org/10.1109/icca54724.2022.9831944
+2025,A Scoping Review of Energy Consumption in Industrial Robotics,https://doi.org/10.3390/machines13070542
+2024,Study of a wall-climbing robot based on chain feet with negative pressure adhesion,https://doi.org/10.1007/s42452-024-05794-5
+2022,"A Novel, Energy-Efficient Smart Speed Adaptation Based on the Gini Coefficient in Autonomous Mobile Robots",https://doi.org/10.3390/electronics11192982
+2022,Wmrenergycon: Matlab Simulink Model for Differential Drive Mobile Robot System that Advanced Energy Consumption Estimation,https://doi.org/10.2139/ssrn.4147210
+2025,SpikingSoft: A Spiking Neuron Controller for Bio-inspired Locomotion with Soft Snake Robots,https://doi.org/10.1109/robosoft63089.2025.11020907
+2024,Motion planning framework based on dual-agent DDPG method for dual-arm robots guided by human joint angle constraints,https://doi.org/10.3389/fnbot.2024.1362359
+2023,Meta-Reinforcement Learning via Language Instructions,https://doi.org/10.1109/icra48891.2023.10160626
+2023,Peg-in-hole assembly skill imitation learning method based on ProMPs under task geometric representation,https://doi.org/10.3389/fnbot.2023.1320251
+2024,A reinforcement learning enhanced pseudo-inverse approach to self-collision avoidance of redundant robots,https://doi.org/10.3389/fnbot.2024.1375309
+2023,Implementation of the Electronic and Communication System for a Snake-like Modular Robot,https://doi.org/10.23919/iccas59377.2023.10316959
+2024,Three-Dimensional Dynamic Modeling and Simulation of Guidewire in Vascular Intervention Surgery,https://doi.org/10.1109/icma61710.2024.10633168
+2024,Human skill knowledge guided global trajectory policy reinforcement learning method,https://doi.org/10.3389/fnbot.2024.1368243
+2024,Contact Energy Based Hindsight Experience Prioritization,https://doi.org/10.1109/icra57147.2024.10610910
+2024,EdgeSnake: A Lightweight Intelligent Modular Snake Robot,https://doi.org/10.1109/icarm62033.2024.10715765
+2021,Optimization of Fuzzy Logic Controller Used for a Differential Drive Wheeled Mobile Robot,https://doi.org/10.3390/app11136023
+2023,Designs of Particle-Swarm-Optimization-Based Intelligent PID Controllers and DC/DC Buck Converters for PEM Fuel-Cell-Powered Four-Wheeled Automated Guided Vehicle,https://doi.org/10.3390/app13052919
+2024,Simulated vs Actual Application of Symbiotic Model on Six Wheel Modular Multi-Agent System for Linear Traversal Mission,https://doi.org/10.20965/jaciii.2024.p0012
+2022,A tripodal wheeled mobile robot driven by a liquid metal motor,https://doi.org/10.1039/d2lc00267a
+2023,Mobile Robot Navigation Based on Embedded Computer Vision,https://doi.org/10.3390/math11112561
+2024,Indoor surface classification for mobile robots,https://doi.org/10.7717/peerj-cs.1730
+2024,Application of artificial intelligence in the new generation of underwater humanoid welding robots: a review,https://doi.org/10.1007/s10462-024-10940-x
+2025,"Digital Twin Robots for Securing IoT Based Healthcare 4.0 Application: Key Technologies, Integration Trends and Recent Advancement",https://doi.org/10.1007/978-3-031-87697-4_3
+2023,Path Planning and Trajectory Tracking Control for Two-Wheel Mobile Robot,https://doi.org/10.18196/jrc.v5i1.20489
+2025,Design and Development of a Controller PCB for a Dual BLDC-Based Differential Drive Rover,https://doi.org/10.1007/978-981-96-0228-5_10
+2025,System Design Navigation for an Explorer Robot with System Continuous Track Type Traction,https://doi.org/10.3390/automation6020018
+2025,Multi-robot assisted communication service in disaster areas using fractional chameleon swarm algorithm,https://doi.org/10.1080/03610918.2025.2512378
+2022,LiDAR Based Trajectory-Tracking of an Autonomous Differential Drive Mobile Robot Using Fuzzy Sliding Mode Controller,https://doi.org/10.1109/access.2022.3162244
+2023,Monitoring the Current Provided by a Hall Sensor Integrated in a Drive Wheel Module of a Mobile Robot,https://doi.org/10.3390/machines11030385
+2023,Real-Time Hardware-in-the-Loop Emulation of Path Tracking in Low-Cost Agricultural Robots,https://doi.org/10.3390/vehicles5030049
+2022,A Routing and Task-Allocation Algorithm for Robotic Groups in Warehouse Environments,https://doi.org/10.3390/info13060288
+2023,Faster Implementation of The Dynamic Window Approach Based on Non-Discrete Path Representation,https://doi.org/10.3390/math11214424
+2024,Research on the Deviation Correction Control of a Tracked Drilling and Anchoring Robot in a Tunnel Environment,https://doi.org/10.3390/act13060221
+2024,Design of a robust intelligent controller based neural network for trajectory tracking of high-speed wheeled robots,https://doi.org/10.1088/1402-4896/ad8486
+2024,An improved fuzzy inference strategy using reinforcement learning for trajectory-tracking of a mobile robot under a varying slip ratio,https://doi.org/10.1017/s0263574724000134
+2022,Kinematic Navigation Control of Differential Drive Agricultural Robot,https://doi.org/10.1109/cistem55808.2022.10043876
+2022,Criterios de desempeño para evaluar algoritmos de navegación de robots móviles: una revisión,https://doi.org/10.4995/riai.2022.16427
+2022,A Design of a Global Path Planner for Nonholonomic Vehicle Based on Dynamic Simulations,https://doi.org/10.1007/978-3-030-98260-7_8
+2025,Robust multilevel average controller for trajectory tracking in mobile robots powered by solar panels: Integrating actuators and power electronics stage,https://doi.org/10.1016/j.rineng.2025.105311
+2025,A control strategy for point stabilization and trajectory tracking of wheeled mobile robots,https://doi.org/10.1016/j.robot.2025.105040
+2024,Green Intrusion Detection Systems: A Comprehensive Review and Directions,https://doi.org/10.3390/s24175516
+2022,Consensus of linear multi-agent systems by distributed event-triggered strategy with designable minimum inter-event time,https://doi.org/10.1016/j.ins.2022.07.107
+2023,Anomaly detection for streaming data based on grid-clustering and Gaussian distribution,https://doi.org/10.1016/j.ins.2023.118989
+2024,Deep reinforcement learning path planning and task allocation for multi-robot collaboration,https://doi.org/10.1016/j.aej.2024.08.102
+2024,Multi-source energy utilization for autonomous microgrids in energy storage systems based on an improved pinch point algorithm,https://doi.org/10.1016/j.compeleceng.2024.109077
+2025,Design and optimization of power supply communication system for indoor wheeled inspection robots,https://doi.org/10.1177/14727978251346077
+2021,Secure and smart autonomous multi-robot systems for opinion spammer detection,https://doi.org/10.1016/j.ins.2021.07.072
+2025,Timer-based distributed coordination for achieving asymptotic consensus in directed communication networks,https://doi.org/10.1016/j.ins.2025.121886
+2025,Application of 3D point cloud and visual-inertial data fusion in Robot dog autonomous navigation,https://doi.org/10.1371/journal.pone.0317371
+2025,A Smart Grid Planning Data Decision Scoring Model Based on Random Forest,https://doi.org/10.1007/978-981-96-7188-5_16
+2023,Multi-Robot Distributed Communication in Heterogeneous Robotic Systems on 5G Networking,https://doi.org/10.1109/mwc.001.2200315
+2022,EE-MPTCP: An Energy-Efficient Multipath TCP Scheduler for IoT-Based Power Grid Monitoring Systems,https://doi.org/10.3390/electronics11193104
+2022,Entity and relation collaborative extraction approach based on multi-head attention and gated mechanism,https://doi.org/10.1080/09540091.2022.2026295
+2021,A Multi-Source Big Data Security System of Power Monitoring Network Based on Adaptive Combined Public Key Algorithm,https://doi.org/10.3390/sym13091718
+2023,Assessment on Fault Diagnosis and State Evaluation of New Power Grid: A Review,https://doi.org/10.32604/ee.2023.027801
+2023,Application-Oriented Homogeneous Control Protocol Design for Multi-Agent Systems Under Input Constraints,https://doi.org/10.1142/s2737480723500140
+2024,Fixed‐Time Consensus Control With Event‐Triggered Mechanism for Multi‐Agent Systems Suffered Time‐Varying State Constraints,https://doi.org/10.1002/rnc.7761
+2024,Six-Axis Robotic Gripping Control Algorithm Based on Deep Learning,https://doi.org/10.1142/s0218001424520049
+2022,RETRACTED ARTICLE: Genetic algorithm-based data controlling method using IoT-enabled WSN in power grid,https://doi.org/10.1007/s00500-022-07186-6
+2022,Design of Question Answering Interactive Open Platform for Power Grid Business Acceptance Robot,https://doi.org/10.1155/2022/9472873
+2023,Lightweight encryption of enterprise data and secure management of eventual graphical model construction,https://doi.org/10.2478/amns.2023.2.01279
+2023,Emergency Automatic Dispatching Method for EHV Transmission Network Based on a Rule Base and Wolf Swarm Algorithm,https://doi.org/10.1109/epee59859.2023.10351928
+2023,Data Architecture of Source-Grid-Load-Storage Platform,https://doi.org/10.1109/repe59476.2023.10511938
+2022,Practice of Robot Process Automation in Power Grid Dispatching Report,https://doi.org/10.1145/3584376.3584415
+2024,Research on Gait Switching Method Based on Speed Requirement,https://doi.org/10.1007/s42235-024-00589-1
+2024,"Smart quadruped robotics: a systematic review of design, control, sensing and perception",https://doi.org/10.1080/01691864.2024.2411684
+2025,Integrated reinforcement learning of automated guided vehicles dynamic path planning for smart logistics and operations,https://doi.org/10.1016/j.tre.2025.104008
+2024,Deep Learning and Game Theory for AI-Enabled Human-Robot Collaboration System Design in Industry 4.0,https://doi.org/10.1109/ccwc60891.2024.10427753
+2025,Time Series Prediction in UAV-UGV Integrated Automation System by Deep Reinforcement Learning in Industry 4.0,https://doi.org/10.1007/978-981-97-4780-1_27
+2025,Efficient Charging Pad Deployment in Large-Scale WRSNs: A Sink-Outward Strategy,https://doi.org/10.3390/electronics14112159
+2022,Mobile Robot Application with Hierarchical Start Position DQN,https://doi.org/10.1155/2022/4115767
+2023,Optimize Path Planning for Drone-based Wireless Power Transfer System by Categorized Reinforcement Learning,https://doi.org/10.1109/ccwc57344.2023.10099314
+2022,Evaluation of Multiple Convolutional Neural Networks in Training the NVIDIA JetBot,https://doi.org/10.1109/uemcon54665.2022.9965727
+2024,The Influence of the Operator’s Perception on the Energy Demand for a Hydraulic Manipulator with a Large Working Area,https://doi.org/10.3390/app14051800
+2025,Technical Considerations for Autonomous Navigation and Route Navigation,https://doi.org/10.1007/978-981-96-8864-7_3
+2023,"Optimization of energy consumption in industrial robots, a review",https://doi.org/10.1016/j.cogr.2023.05.003
+2024,"Progress, challenges and trends on vision sensing technologies in automatic/intelligent robotic welding: State-of-the-art review",https://doi.org/10.1016/j.rcim.2024.102767
+2022,Energy-Efficient Robot Configuration and Motion Planning Using Genetic Algorithm and Particle Swarm Optimization,https://doi.org/10.3390/en15062074
+2023,An Overview of Energies Problems in Robotic Systems,https://doi.org/10.3390/en16248060
+2023,A Novel Sampling-Based Optimal Motion Planning Algorithm for Energy-Efficient Robotic Pick and Place,https://doi.org/10.3390/en16196910
+2024,Evaluating Energy Efficiency and Optimal Positioning of Industrial Robots in Sustainable Manufacturing,https://doi.org/10.3390/jmmp8060276
+2024,Construction and Application of Energy Footprint Model for Digital Twin Workshop Oriented to Low-Carbon Operation,https://doi.org/10.3390/s24113670
+2022,Energy reduction of stochastic time-constrained robot stations,https://doi.org/10.1016/j.rcim.2022.102511
+2022,TCP Parameters Monitoring of Robotic Stations,https://doi.org/10.3390/electronics11203415
+2024,The Bees Algorithm for Robotics-Enabled Collaborative Manufacturing,https://doi.org/10.1007/978-3-031-64936-3_10
+2022,A Computer-Aided Tool for the Energy Optimization of Industrial Robots in Manufacturing Applications,https://doi.org/10.1007/978-3-031-15928-2_1
+2022,Energy Efficient Trajectory Planning in Robotic Cells via Virtual Prototyping Tools,https://doi.org/10.1007/978-3-031-15928-2_54
+2022,An Overview of Energies Problems in Control and Robotic Systems,https://doi.org/10.20944/preprints202211.0238.v1
+2021,Application of Bayesian Optimization in Black-box Parameter Fast Tuning for Industrial Robots,https://doi.org/10.1145/3518781.3519191
+2024,Analysis of Environmental Inequality in Middle East Cities Based on the Systematic Review Method.,https://doi.org/10.61186/jsaeh.11.3.7
+2022,"Influence of Gait, Gradient &amp; Terrain on the Performance of Six-Legged Robot",https://doi.org/10.1109/mysurucon55714.2022.9972620
+2021,A Comprehensive Review of Coverage Path Planning in Robotics Using Classical and Heuristic Algorithms,https://doi.org/10.1109/access.2021.3108177
+2023,An Algorithm of Complete Coverage Path Planning for Unmanned Surface Vehicle Based on Reinforcement Learning,https://doi.org/10.3390/jmse11030645
+2020,Coverage Path Planning for Decomposition Reconfigurable Grid-Maps Using Deep Reinforcement Learning Based Travelling Salesman Problem,https://doi.org/10.1109/access.2020.3045027
+2022,Energy-Efficient Path Planning of Reconfigurable Robots in Complex Environments,https://doi.org/10.1109/tro.2022.3147408
+2021,Reinforcement Learning-Based Complete Area Coverage Path Planning for a Modified hTrihex Robot,https://doi.org/10.3390/s21041067
+2021,Collaborative Complete Coverage and Path Planning for Multi-Robot Exploration,https://doi.org/10.3390/s21113709
+2023,Robot-aided human evacuation optimal path planning for fire drill in buildings,https://doi.org/10.1016/j.jobe.2023.106512
+2025,"A comprehensive review on configuration, design and programming of robotic systems used in various applications",https://doi.org/10.1007/s41315-025-00424-8
+2020,Reinforcement learning-based optimal complete water-blasting for autonomous ship hull corrosion cleaning system,https://doi.org/10.1016/j.oceaneng.2020.108477
+2021,Coverage Path Planning Using Reinforcement Learning-Based TSP for hTetran—A Polyabolo-Inspired Self-Reconfigurable Tiling Robot,https://doi.org/10.3390/s21082577
+2022,Accelerated Earth-Rockfill Dam Compaction by Collaborative Operation of Unmanned Roller Fleet,https://doi.org/10.1061/(asce)co.1943-7862.0002267
+2020,Towards optimal hydro-blasting in reconfigurable climbing system for corroded ship hull cleaning and maintenance,https://doi.org/10.1016/j.eswa.2020.114519
+2024,Two-stage task allocation for multiple construction robots using an improved genetic algorithm,https://doi.org/10.1016/j.autcon.2024.105583
+2023,Introducing Switched Adaptive Control for Self-Reconfigurable Mobile Cleaning Robots,https://doi.org/10.1109/tase.2023.3260099
+2025,Inter-reconfigurable robot by modified informed sampling-based shortest path planning in cleaning and maintenance,https://doi.org/10.1017/s0263574725000645
+2021,Social Density Monitoring Toward Selective Cleaning by Human Support Robot With 3D Based Perception System,https://doi.org/10.1109/access.2021.3065125
+2023,A metaheuristic approach to optimal morphology in reconfigurable tiling robots,https://doi.org/10.1007/s40747-023-01015-5
+2021,Locomotion with Pedestrian Aware from Perception Sensor by Pavement Sweeping Reconfigurable Robot,https://doi.org/10.3390/s21051745
+2021,Adaptive Floor Cleaning Strategy by Human Density Surveillance Mapping with a Reconfigurable Multi-Purpose Service Robot,https://doi.org/10.3390/s21092965
+2023,Optimal Morphologies of n-Omino-Based Reconfigurable Robot for Area Coverage Task Using Metaheuristic Optimization,https://doi.org/10.3390/math11040948
+2023,Design and Dynamic Simulation Verification of an On-Orbit Operation-Based Modular Space Robot,https://doi.org/10.3390/app132312949
+2021,Multirobot Formation with Sensor Fusion-Based Localization in Unknown Environment,https://doi.org/10.3390/sym13101788
+2021,Adaptive Modular Reinforcement Learning for Robot Controlled in Multiple Environments,https://doi.org/10.1109/access.2021.3070704
+2021,Path Planning for Reconfigurable hTetro Robot Combining Heat Conduction-Based and Discrete Optimization,https://doi.org/10.1109/access.2021.3112187
+2021,Parallel Swarm Intelligent Motion Planning with Energy-Balanced for Multirobot in Obstacle Environment,https://doi.org/10.1155/2021/8902328
+2023,Reinforcement Learning With Energy-Exchange Dynamics for Spring-Loaded Biped Robot Walking,https://doi.org/10.1109/lra.2023.3303786
+2023,Mechanical Design of a Biped Robot FORREST and an Extended Capture-Point-Based Walking Pattern Generator,https://doi.org/10.3390/robotics12030082
+2025,aImproved MPPT of Solar PV Systems under different Environmental conditions utilizes a Novel Hybrid PSO,https://doi.org/10.1016/j.renene.2025.122709
+2023,A Review on Intelligent Control Theory and Applications in Process Optimization and Smart Manufacturing,https://doi.org/10.3390/pr11113171
+2024,Fuzzy Multi-Agent Simulation for Collective Energy Management of Autonomous Industrial Vehicle Fleets,https://doi.org/10.3390/a17110484
+2022,A cooperative approach to avoiding obstacles and collisions between autonomous industrial vehicles in a simulation platform,https://doi.org/10.3233/ica-220694
+2024,Design and Implementation of a Solar-Powered Mobile Robot for Transportation Application,https://doi.org/10.13189/ujme.2024.120201
+2024,Modeling and rolling gaits of a strut-actuated 6-strut locomotive tensegrity robot with membranes,https://doi.org/10.1177/17298806241288807
+2022,Machine Learning Approach for Charging Queue Waiting Time Prediction of Electrical Autonomous Forklifts Fleet,https://doi.org/10.1109/vppc55846.2022.10003374
+2023,Cross-Entropy Regularized Policy Gradient for Multirobot Nonadversarial Moving Target Search,https://doi.org/10.1109/tro.2023.3263459
+2022,Quality of experience aware recommendation system with IoT data filtration for handshaking among users using MQTT-SN protocol,https://doi.org/10.1007/s12652-021-03644-5
+2022,PD-FAC: Probability Density Factorized Multi-Agent Distributional Reinforcement Learning for Multi-Robot Reliable Search,https://doi.org/10.1109/lra.2022.3188904
+2023,Image Processing Based Pest Detection and Location Sharing to Farmers,https://doi.org/10.1109/incet57972.2023.10170109
+2024,Multi – Robot Exploration Supported by Enhanced Localization with Reduction of Localization Error Using Particle Swarm Optimization,https://doi.org/10.58346/jowua.2024.i1.014
+2023,3D Modeling of Automated Robot for Seeding and Transplantation of Rice and Wheat Crops,https://doi.org/10.1007/978-981-99-2322-9_16
+2024,Multiple mobile robots motion control based on screw theory for aircraft panel assembly,https://doi.org/10.1177/00202940231218531
+2024,Precise Motion Control for Self-reconfiguration Wave-like Crawling Robots in Parallel Connection with Limited Resources,https://doi.org/10.1109/lra.2024.3433204
+2024,Automatic Curriculum Determination for Deep Reinforcement Learning in Reconfigurable Robots,https://doi.org/10.1109/access.2024.3406768
+2024,A Bio-Inspired Adjustable Posture Quadruped Robot with Laterally Undulating Spine for Terradynamically Challenging Environments,https://doi.org/10.36227/techrxiv.171294928.86107972/v1
+2024,Intelligent Rising Sprawl Tuned Autonomous Robot,https://doi.org/10.1007/978-3-031-71301-9_7
+2024,Managing Energy Consumption of Linear Delta Robots Using Neural Network Models,https://doi.org/10.3390/en17164081
+2024,Software and Hardware Platform Development for the Synthesis of Adaptive Algorithms and Methods for Controlling the Behavior of Collaborative Robotic System,https://doi.org/10.1109/icieam60818.2024.10553878
+2025,Robot pose optimization based on spectral clustering guided MOSSA considering the flexibility of robot structure and mounting base,https://doi.org/10.1016/j.aei.2025.103645
+2024,Assessment of the Development Performance of Additive Manufacturing VPP Parts Using Digital Light Processing (DLP) and Liquid Crystal Display (LCD) Technologies,https://doi.org/10.3390/app14093607
+2024,Automatic Optimal Robotic Base Placement for Collaborative Industrial Robotic Car Painting,https://doi.org/10.3390/app14198614
+2024,Synchronous Multi-Layer Cooperative 3d Printing for Enhanced Structural Integrity,https://doi.org/10.2139/ssrn.4897913
+2024,Kinematics-guided data-driven energy surrogate model for robotic additive manufacturing,https://doi.org/10.1016/j.mfglet.2024.09.017
+2022,Hybrid electric vehicles: A review of energy management strategies based on model predictive control,https://doi.org/10.1016/j.est.2022.106112
+2023,Wireless energy: Paving the way for smart cities and a greener future,https://doi.org/10.1016/j.enbuild.2023.113469
+2025,Modelling and control of the PEMFC powered wheeled mobile robot,https://doi.org/10.1016/j.ijhydene.2025.01.097
+2023,A Review on the Applications of PSO-Based Algorithm in Demand Side Management: Challenges and Opportunities,https://doi.org/10.1109/access.2023.3278261
+2023,Application of Machine Learning in Fuel Cell Research,https://doi.org/10.3390/en16114390
+2024,Modelling and optimization of microgrid with combined genetic algorithm and model predictive control of PV/Wind/FC/battery energy systems,https://doi.org/10.1016/j.egyr.2024.12.008
+2022,A Critical Review on Artificial Intelligence for Fuel Cell Diagnosis,https://doi.org/10.3390/catal12070743
+2023,A universal hydraulic-mechanical diagnostic framework based on feature extraction of abnormal on-field measurements: Application in micro pumped storage system,https://doi.org/10.1016/j.apenergy.2023.122478
+2024,Adaptive hierarchical energy management strategy for fuel cell mobile robot hybrid power system based on working condition recognition,https://doi.org/10.1016/j.renene.2024.121628
+2025,Solid Oxide Fuel Cell Voltage Prediction by a Data-Driven Approach,https://doi.org/10.3390/en18092174
+2025,Multilayer Type-2 Fuzzy Q-Learning-Based Energy Management for Fuel Cell Hybrid Mobile Robot System with Varying Temperature,https://doi.org/10.1088/1742-6596/3024/1/012038
+2022,A survey on co-optimization of sizing and energy management for fuel cell electric vehicles,https://doi.org/10.1109/icsc57768.2022.9993904
+2024,Intelligent Control of Electric Vehicle Drives using Swarm Robotics,https://doi.org/10.1051/e3sconf/202451101028
+2024,Energy Management of a Fuel Cell Electric Robot Based on Hydrogen Value and Battery Overcharge Control,https://doi.org/10.3390/wevj15080352
+2024,Research on Wireless Power Transfer Method for Intelligent Sensing Device of Non-Directly Buried Distribution Cables,https://doi.org/10.3390/electronics13081411
+2023,一种用于机器人电池电量预测的 Sarsa 强化学习混合集成方法,https://doi.org/10.1007/s11771-023-5451-0
+2023,An Overview of the Energy Efficiency and Power Management Strategies in Robots,https://doi.org/10.1109/imcet59736.2023.10368243
+2025,Synergetic attention-driven transformer: A Deep reinforcement learning approach for vehicle routing problems,https://doi.org/10.1016/j.eswa.2025.126961
+2024,A two-stage reinforcement learning-based approach for multi-entity task allocation,https://doi.org/10.1016/j.engappai.2024.108906
+2025,A Study on Multi-Robot Task Allocation in Railway Scenarios Based on the Improved NSGA-II Algorithm,https://doi.org/10.3390/s25041001
+2025,A heuristic distributed and no-wait method for solving multiagent task allocation problems with coupled temporal constraints,https://doi.org/10.1016/j.swevo.2025.101898
+2025,Reactive Whole-body Locomotion-integrated Manipulation Based on Combined Learning and Optimization,https://doi.org/10.1007/s11633-024-1538-9
+2025,"Comprehensive Comparative Analysis of Lower Limb Exoskeleton Research: Control, Design, and Application",https://doi.org/10.3390/act14070342
+2025,Momentum-based distributed resource scheduling optimization subject to sector-bound nonlinearity and latency,https://doi.org/10.1016/j.sysconle.2025.106062
+2025,Dynamic Embedding-based Deep Reinforcement Learning for Heterogeneous Capacitated VRPs with Unloading Time Constraints,https://doi.org/10.1016/j.eswa.2025.128660
+2023,An efficient two-stage evolutionary algorithm for multi-robot task allocation in nuclear accident rescue scenario,https://doi.org/10.1016/j.asoc.2023.111223
+2024,Operational modes of industrial proactive human–robot collaboration,https://doi.org/10.1016/b978-0-44-313943-7.00015-6
+2024,Visual Action Planning with Multiple Heterogeneous Agents,https://doi.org/10.1109/ro-man60168.2024.10731218
+2022,Applications of Artificial Intelligence Algorithms in the Energy Sector,https://doi.org/10.3390/en16010347
+2023,The Improved Particle Swarm Optimization Method: An Efficient Parameter Tuning Method with the Tuning Parameters of a Dual-Motor Active Disturbance Rejection Controller,https://doi.org/10.3390/s23208605
+2024,Active suspension LQR control based on modified differential evolutionary algorithm optimization,https://doi.org/10.21595/jve.2024.23953
+2025,Gain-analytical equations generalized for FOPID controllers - An application with DC-DC power converters,https://doi.org/10.1016/j.prime.2025.100967
+2024,Gain-Analytical Equations Generalized for Fopid Controllers - an Application with Dc-Dc Power Converters,https://doi.org/10.2139/ssrn.4864812
+2023,Research on Smart Grid Condition Monitoring System Based on Differential Evolutionary Algorithm,https://doi.org/10.1109/cicn59264.2023.10402284
+2024,MAPS: Energy-Reliability Tradeoff Management in Autonomous Vehicles Through LLMs Penetrated Science,https://doi.org/10.1109/cpsat64082.2024.10745445
+2024,Smooth and Time-Optimal Trajectory Planning for Robots Using Improved Carnivorous Plant Algorithm,https://doi.org/10.3390/machines12110802
+2023,Optimization of the grinding trajectory of the engine piston skirt robot based on machine vision,https://doi.org/10.1007/s42452-023-05323-w
+2023,Multi-objective trajectory optimization of the 2-redundancy planar feeding manipulator based on pseudo-attractor and radial basis function neural network,https://doi.org/10.1080/15397734.2023.2245872
+2023,Minimizing cycle time and energy consumption for a multi-degree serial manipulator using teaching–learning-based optimization,https://doi.org/10.1007/s40430-023-04192-z
+2023,Optimizing Robotic Task Sequencing and Trajectory Planning on the Basis of Deep Reinforcement Learning,https://doi.org/10.3390/biomimetics9010010
+2024,Simulation of the Digital Twin of the Technological Process of Creating a Demonstrator Using R-Pro Digital,https://doi.org/10.1109/ieeeconf60226.2024.10496776
+2024,Optimal Energy Consumption Planning for Industrial Robots using Stochastic Gradient Descent based Federated Learning,https://doi.org/10.1109/icdsis61070.2024.10594680
+2022,Robot Trajectory Planning Based on the Energy Management Strategy,https://doi.org/10.1155/2022/9597075
+2024,Optimizing the Three-Dimensional Multi-Objective of Feeder Bus Routes Considering the Timetable,https://doi.org/10.3390/math12070930
+2024,ID-Det: Insulator Burst Defect Detection from UAV Inspection Imagery of Power Transmission Facilities,https://doi.org/10.3390/drones8070299
+2025,Dynamic Modeling and Analysis of a Flying–Walking Power Transmission Line Inspection Robot Landing on Power Transmission Line Using the ANCF Method,https://doi.org/10.3390/app15041863
+2025,Neural networks and genetic algorithms-based self-adjustment system for a backstepping controller of an unmanned aerial vehicle,https://doi.org/10.1016/j.aej.2025.04.034
+2024,Research on the Carbon Reduction Technology Path of the Iron and Steel Industry Based on a Multi-Objective Genetic Algorithm,https://doi.org/10.3390/su16072966
+2024,Research on the Optimization Method of Visual Sensor Calibration Combining Convex Lens Imaging with the Bionic Algorithm of Wolf Pack Predation,https://doi.org/10.3390/s24185926
+2025,Optimizing the Operational Process of a Social Robot for Elderly Assistance: Enhancing Reliability and Readiness,https://doi.org/10.3390/electronics14081630
+2023,An Optimized Energy and Time Constraints-Based Path Planning for the Navigation of Mobile Robots Using an Intelligent Particle Swarm Optimization Technique,https://doi.org/10.3390/app13179667
+2025,Technology and trust: A scoping review on AI-enabled orientation and mobility technologies for blind and visually impaired individuals,https://doi.org/10.1177/10554181251355426
+2024,A computational fractional order model for optimal control of wearable healthcare monitoring devices for maternal health,https://doi.org/10.1016/j.health.2024.100308
+2023,Investigating &amp; Uncovering the Future of Smart Residential Automation: A Historical Comprehensive Survey and Machine Learning Insights,https://doi.org/10.1109/smartgencon60755.2023.10441963
+2024,Non-back-drivable clutch based self-locking mechanism of prosthetic joint to improve manipulation stability,https://doi.org/10.3389/fbioe.2024.1385076
+2024,Attention-based Deep Learning model for Indoor Object Recognition Framework for Visually Impaired Individuals,https://doi.org/10.1109/iicccs61609.2024.10763601
+2023,A Maintenance-Aware Approach for Sustainable Autonomous Mobile Robot Fleet Management,https://doi.org/10.1109/tmc.2023.3334589
+2022,Table of Contents,https://doi.org/10.1109/acsos55765.2022.00004
+2025,Upper-lower limb coordination and active posture compensation for transverse ledge brachiation robots,https://doi.org/10.1177/09544062251348298
+2025,Experimental research of control moment gyroscope effect on bipedal robot walking trajectory,https://doi.org/10.1007/s40430-025-05477-1
+2025,Two-stage energy efficiency optimization of ship speed and trim considering varying sea conditions and optimization frequency,https://doi.org/10.1016/j.oceaneng.2025.121956
+2021,Design of a Dynamic Simulator for a Biped Robot,https://doi.org/10.1155/2021/5539123
+2023,Parametric optimization of the cyclic pick-and-place operations of a single-link manipulator with active and passive actuators,https://doi.org/10.15407/apmm2023.21.64-71
+2023,Optimization of the Parameters of Feet and the Laws of Motion of Bipedal Walking Robots,https://doi.org/10.1007/s10958-023-06342-z
+2021,Design and construction of a bipedal robot prototype for experimentation in balance tests during the static standing phase,https://doi.org/10.1109/ccac51819.2021.9633322
+2021,Estabilidad y control de sistemas mecánicos de base móvil,https://doi.org/10.31349/revmexfise.18.69
+2023,Control Design for an Exoskeleton System Based on the Human Gait,https://doi.org/10.21203/rs.3.rs-3302417/v1
+2020,Optimization of the feet parameters and motion laws of the bipedal walking robot,https://doi.org/10.15407/mmpmf2020.63.1.181-200
+2022,Design and construction of a bipedal robot for gait experimentation,https://doi.org/10.46571/jci.2022.2.3
+2021,Generación de trayectorias de marcha para un robot humanoide a partir de captura de movimiento,https://doi.org/10.19053/01217488.v12.n2.2021.12446
+2025,"State-of-the-Art Review on the Application of Unmanned Aerial Vehicles (UAVs) in Power Line Inspections: Current Innovations, Trends, and Future Prospects",https://doi.org/10.3390/drones9040265
+2021,Enhanced ant colony algorithm with communication mechanism for mobile robot path planning,https://doi.org/10.1016/j.robot.2021.103949
+2022,A survey on the application of path-planning algorithms for multi-rotor UAVs in precision agriculture,https://doi.org/10.1017/s0373463321000825
+2021,Multi-Tour Set Traveling Salesman Problem in Planning Power Transmission Line Inspection,https://doi.org/10.1109/lra.2021.3091695
+2025,A signal temporal logic approach for task-based coordination of multi-aerial systems: A wind turbine inspection case study,https://doi.org/10.1016/j.robot.2024.104905
+2023,MRS Drone: A Modular Platform for Real-World Deployment of Aerial Multi-Robot Systems,https://doi.org/10.1007/s10846-023-01879-2
+2023,UAVs Beneath the Surface: Cooperative Autonomy for Subterranean Search and Rescue in DARPA SubT,https://doi.org/10.55417/fr.2023001
+2023,Benchmark Evaluation of Hybrid Fixed-Flapping Wing Aerial Robot With Autopilot Architecture for Autonomous Outdoor Flight Operations,https://doi.org/10.1109/lra.2023.3280753
+2024,Radial basis function neural networks for formation control of unmanned aerial vehicles,https://doi.org/10.1017/s0263574724000559
+2024,A Multi-UAV Route Planning Method for Fast Inspection of Electric Power Transmission Lines,https://doi.org/10.1109/icuas60882.2024.10556920
+2022,Mission Planning and Execution in Heterogeneous Teams of Aerial Robots supporting Power Line Inspection Operations,https://doi.org/10.1109/icuas54217.2022.9836234
+2024,Sequential control barrier functions for mobile robots with dynamic temporal logic specifications,https://doi.org/10.1016/j.robot.2024.104681
+2023,An Efficient Framework for Autonomous UAV Missions in Partially-Unknown GNSS-Denied Environments,https://doi.org/10.3390/drones7070471
+2025,Efficient relative localization and coordination system for unmanned ground vehicle formations under directed graph structure,https://doi.org/10.1017/s026357472500013x
+2025,Drone-based fault recognition in power systems: a systematic review of intelligent methods,https://doi.org/10.1007/s42452-025-06774-z
+2025,A Multi-UAV Approach for Fast Inspection of Overhead Power Lines: From Route Planning to Field Operation,https://doi.org/10.1007/s10846-025-02277-6
+2022,MRS Modular UAV Hardware Platforms for Supporting Research in Real-World Outdoor and Indoor Environments,https://doi.org/10.1109/icuas54217.2022.9836083
+2023,A Signal Temporal Logic Motion Planner for Bird Diverter Installation Tasks With Multi-Robot Aerial Systems,https://doi.org/10.1109/access.2023.3300240
+2024,Synthesis of Temporally-Robust Policies for Signal Temporal Logic Tasks using Reinforcement Learning,https://doi.org/10.1109/icra57147.2024.10610510
+2021,Optimum Trajectory Planning for Multi-Rotor UAV Relays with Tilt and Antenna Orientation Variations,https://doi.org/10.23919/eusipco54536.2021.9616232
+2023,Communications-Aware Robotics: Challenges and Opportunities,https://doi.org/10.1109/icuas57906.2023.10155882
+2022,Adaptive finite-time event-triggered command filtered control for nonlinear systems with unknown control directions,https://doi.org/10.1007/s11071-022-07573-6
+2022,A Perception-Aware NMPC for Vision-Based Target Tracking and Collision Avoidance with a Multi-Rotor UAV,https://doi.org/10.1109/icuas54217.2022.9836071
+2024,Flying in Narrow Spaces: Prioritizing Safety With Disturbance-Aware Control,https://doi.org/10.1109/lra.2024.3401127

@@ -1,0 +1,13 @@
+{
+  "metric": "energy consumption (Wh)",
+  "domain": "industrial",
+  "major_consumers": "motors and actuators",
+  "evaluation_type": "hybrid",
+  "energy_model": "other",
+  "techniques": [
+    "learning or predictive optimization",
+    "computation allocation and scheduling"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

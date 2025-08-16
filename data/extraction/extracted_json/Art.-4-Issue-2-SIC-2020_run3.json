@@ -1,0 +1,12 @@
+{
+  "metric": "performance per energy",
+  "domain": "swarm or multi-robot",
+  "evaluation_type": "hybrid",
+  "energy_model": "abstract",
+  "techniques": [
+    "learning or predictive optimization",
+    "motion and trajectory optimization"
+  ],
+  "qa_tradeoff": "coverage vs energy",
+  "confidence": 0.85
+}

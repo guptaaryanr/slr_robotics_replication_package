@@ -1,0 +1,11 @@
+{
+  "metric": "performance per energy",
+  "domain": "industrial",
+  "evaluation_type": "simulation",
+  "techniques": [
+    "motion and trajectory optimization",
+    "computation allocation and scheduling"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

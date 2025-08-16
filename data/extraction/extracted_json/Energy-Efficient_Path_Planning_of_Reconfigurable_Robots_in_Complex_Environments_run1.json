@@ -1,0 +1,13 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "modular",
+  "major_consumers": "motors and actuators",
+  "evaluation_type": "hybrid",
+  "energy_model": "representational",
+  "techniques": [
+    "motion and trajectory optimization",
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.9
+}

@@ -1,0 +1,14 @@
+{
+  "metric": "energy consumption and makespan",
+  "domain": "industrial",
+  "major_consumers": "mechanical motion pattern",
+  "evaluation_type": "simulation",
+  "energy_model": "other",
+  "techniques": [
+    "motion and trajectory optimization",
+    "computation allocation and scheduling",
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.95
+}

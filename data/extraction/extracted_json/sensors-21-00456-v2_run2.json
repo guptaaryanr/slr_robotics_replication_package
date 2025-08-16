@@ -1,0 +1,12 @@
+{
+  "metric": "performance per energy",
+  "domain": "industrial",
+  "major_consumers": "motors and actuators",
+  "evaluation_type": "physical",
+  "energy_model": "other",
+  "techniques": [
+    "motion and trajectory optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

@@ -1,0 +1,74 @@
+file,consensus
+2024/Automatic_Curriculum_Determination_for_Deep_Reinforcement_Learning_in_Reconfigurable_Robots.pdf,exclude
+2023/1-s2.0-S0278612523000948-main.pdf,include
+2024/fnbot-18-1362359.pdf,exclude
+2021/malinowski-et-al-2021-fusion-of-visual-and-wheel-odometry-with-integrated-slip-estimation.pdf,exclude
+2022/energies-15-08036-v2.pdf,include
+2023/Optimize_Path_Planning_for_Drone-based_Wireless_Power_Transfer_System_by_Categorized_Reinforcement_Learning.pdf,include
+2023/Collision-Free_Navigation_in_Human-Following_Task_Using_a_Cognitive_Robotic_System_on_Differential_Drive_Vehicles.pdf,include
+2020/energies-13-02062-v3.pdf,exclude
+2020/Gait_planning_and_control_of_q.pdf,exclude
+2022/A_Hybrid_Iterated_Greedy_Algorithm_for_a_Crane_Transportation_Flexible_Job_Shop_Problem.pdf,exclude
+2021/sensors-21-01067-v2.pdf,include
+2023/md_145_1_012003.pdf,include
+2023/Multi-objective trajectory optimization of the 2-redundancy planar feeding manipulator based on pseudo-attractor and radial basis function neural netw.pdf,exclude
+2024/sustainability-16-01053-v2.pdf,exclude
+2022/Power_Consumption_Modeling_of_Wheeled_Mobile_Robots_With_Multiple_Driving_Modes.pdf,include
+2020/jaramillo-morales-et-al-2020-energy-estimation-for-differential-drive-mobile-robots-on-straight-and-rotational.pdf,exclude
+2022/Autonomous_Multiple_Robots_Exploration_using_Evolutionary_Optimization_Algorithm.pdf,exclude
+2022/A_Reinforcement_Learning_Approach_for_Flexible_Job_Shop_Scheduling_Problem_With_Crane_Transportation_and_Setup_Times.pdf,exclude
+2020/Coverage_Path_Planning_for_Decomposition_Reconfigurable_Grid-Maps_Using_Deep_Reinforcement_Learning_Based_Travelling_Salesman_Problem.pdf,exclude
+2022/1-s2.0-S1270963822005958-main.pdf,exclude
+2023/SVF-RRT_A_Stream-Based_VF-RRT_for_USVs_Path_Planning_Considering_Ocean_Currents.pdf,exclude
+2021/EBSCO-FullText-07_29_2025.pdf,exclude
+2023/Introducing_Switched_Adaptive_Control_for_Self-Reconfigurable_Mobile_Cleaning_Robots.pdf,exclude
+2024/Spiking_Neural_Network_for_Ultralow-Latency_and_High-Accurate_Object_Detection.pdf,include
+2023/A_Maintenance-Aware_Approach_for_Sustainable_Autonomous_Mobile_Robot_Fleet_Management.pdf,include
+2023/Trajectory_planning_of_large_r.pdf,exclude
+2021/Motion_Planning_for_Autonomous_Grain_Carts.pdf,exclude
+2024/machines-12-00225.pdf,exclude
+2023/applsci-13-08530.pdf,exclude
+2021/sensors-21-02965-v2.pdf,include
+2022/information-13-00288-v2.pdf,exclude
+2022/ssrn-4147210.pdf,exclude
+2022/Unsupervised_Sim-to-Real_Adaptation_for_Environmental_Recognition_in_Assistive_Walking.pdf,exclude
+2022/sustainability-14-03049-v2.pdf,include
+2024/energies-17-04081.pdf,include
+2024/Journal of Field Robotics - 2024 - Haji Ali Mohamadi - A Hybrid Parameters Estimation Approach for Power Consumption.pdf,include
+2021/md_143_7_072002.pdf,include
+2020/Real_time_System_Implementation_for_Stereo_3D_Mapping_and_Visual_Odometry.pdf,exclude
+2021/sensors-21-02577.pdf,include
+2022/5TQI_electronics-11-02982-p.pdf,exclude
+2022/Energy-Efficient_Path_Planning_of_Reconfigurable_Robots_in_Complex_Environments.pdf,include
+2024/B_Splined Trajectory.pdf,exclude
+2020/Minimizing_the_Energy_Consumption_for_a_Hexapod_Robot_Based_on_Optimal_Force_Distribution.pdf,include
+2024/algorithms-17-00484-v2.pdf,exclude
+2024/wevj-15-00166-v2.pdf,include
+2024/Xue_2024_Phys._Scr._99_115023.pdf,include
+2023/20489-Article Text-77676-1-10-20231226.pdf,exclude
+2021/A_Feasible_Method_for_Evaluating_Energy_Consumption_of_Industrial_Robots.pdf,exclude
+2023/applsci-13-02919.pdf,exclude
+2023/energies-16-06910-v3.pdf,exclude
+2021/sensors-21-00456-v2.pdf,include
+2020/Dynamic_Modeling_Energy_Analysis_and_Path_Planning_of_Spherical_Robots_on_Uneven_Terrains.pdf,exclude
+2021/Wireless Communications and Mobile Computing - 2021 - Su - Parallel Swarm Intelligent Motion Planning with Energy‐Balanced.pdf,include
+2023/Energy_Efficient_Path_and_Trajectory_Optimization_of_Manipulators_With_Task_Deadline_Constraints.pdf,exclude
+2023/mathematics-11-00948-v2.pdf,exclude
+2020/Distributed_Intelligence_Empowered_Data_Aggregation_and_Distribution_for_Multi-robot_Cooperative_Communication.pdf,exclude
+2023/applsci-13-09667-v2.pdf,exclude
+2021/applsci-11-06023.pdf,include
+2023/s40747-023-01015-5.pdf,include
+2023/machines-11-00385.pdf,exclude
+2024/00G5_actuators-13-00037-p.pdf,exclude
+2024/Flying_in_Narrow_Spaces_Prioritizing_Safety_With_Disturbance-Aware_Control.pdf,exclude
+2023/1-s2.0-S0378475423000836-main.pdf,exclude
+2023/Reinforcement_Learning_With_Energy-Exchange_Dynamics_for_Spring-Loaded_Biped_Robot_Walking.pdf,exclude
+2023/drones-07-00471.pdf,include
+2022/Xu_2024_J._Phys.__Conf._Ser._2816_012056.pdf,exclude
+2023/Green smart manufacturing  energy-efficient robotic job shop scheduling models.pdf,exclude
+2022/energies-15-02074-v2.pdf,exclude
+2022/Mathematical Problems in Engineering - 2022 - Li - Robot Trajectory Planning Based on the Energy Management Strategy.pdf,exclude
+2022/PD-FAC_Probability_Density_Factorized_Multi-Agent_Distributional_Reinforcement_Learning_for_Multi-Robot_Reliable_Search.pdf,exclude
+2021/applsci-11-02346-v2.pdf,include
+2020/Least-Energy_Path_Planning_With_Building_Accurate_Power_Consumption_Model_of_Rotary_Unmanned_Aerial_Vehicle.pdf,include
+2024/wevj-15-00352-v2.pdf,exclude

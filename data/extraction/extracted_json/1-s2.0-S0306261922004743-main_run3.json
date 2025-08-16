@@ -1,0 +1,14 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "industrial",
+  "major_consumers": "motors and actuators",
+  "evaluation_type": "simulation",
+  "energy_model": "representational",
+  "techniques": [
+    "power management and idle control",
+    "computation allocation and scheduling",
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

@@ -1,0 +1,111 @@
+{
+    "name": "extract_study",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "metric": {
+                "type": "string",
+                "description": "The primary metric of energy evaluation, e.g., 'average power (W)'",
+                "enum": [
+                    "aggregate energy/power",
+                    "task-normalized energy",
+                    "performance per energy",
+                    "relative change versus baseline",
+                    "composite objective including energy",
+                    "physics-based integrals",
+                    "validation statistics",
+                    "operational proxies"
+                ]
+            },
+            "domain": {
+                "type": "string",
+                "description": "The application domain of the robotic system, e.g., 'robot exploration'",
+                "enum": [
+                    "robot exploration",
+                    "industrial",
+                    "service or domestic",
+                    "aerial",
+                    "aquatic",
+                    "modular",
+                    "additive manufacturing",
+                    "iot power",
+                    "swarm or multi-robot",
+                    "mixed"
+                ]
+            },
+            "major_consumers": {
+                "type": "string",
+                "description": "The major energy consumers in the robotic system, e.g., 'motors and actuators'",
+                "enum": [
+                    "motors and actuators",
+                    "sensors",
+                    "computing and controllers",
+                    "communication subsystem",
+                    "battery and power electronics",
+                    "mechanical motion pattern",
+                    "idle and stand-by overhead"
+                ]
+            },
+            "evaluation_type": {
+                "type": "string",
+                "description": "The type of evaluation performed, e.g., 'simulation'",
+                "enum": [
+                    "simulation",
+                    "physical",
+                    "hybrid"
+                ]
+            },
+            "energy_model": {
+                "type": "string",
+                "description": "The energy model used in the evaluation, e.g., 'representational'",
+                "enum": [
+                    "abstract",
+                    "representational"
+                ]
+            },
+            "techniques": {
+                "type": "array",
+                "description": "Techniques used to optimize energy efficiency, e.g., 'motion planning'",
+                "items": {
+                    "type": "string",
+                    "enum": [
+                        "power management and idle control",
+                        "motion and trajectory optimization",
+                        "computation allocation and scheduling",
+                        "learning or predictive optimization",
+                        "communication and data efficiency",
+                        "hardware or morphology and harvesting"
+                    ]
+                }
+            },
+            "qa_tradeoff": {
+                "type": "string",
+                "description": "The quality-assurance trade-off considered, e.g., 'performance vs energy'",
+                "enum": [
+                    "performance vs energy",
+                    "reliability vs energy",
+                    "accuracy vs energy",
+                    "coverage vs energy",
+                    "mission quality vs energy",
+                    "safety vs energy",
+                    "stability vs energy",
+                    "maintainability vs energy",
+                    "code complexity vs energy",
+                    "cost vs energy"
+                ]
+            },
+            "confidence": {
+                "type": "number"
+            },
+            "quote_per_field": {
+                "type": "object"
+            }
+        },
+        "required": [
+            "metric",
+            "domain",
+            "evaluation_type",
+            "confidence"
+        ]
+    }
+}

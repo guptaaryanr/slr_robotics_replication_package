@@ -1,0 +1,14 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "additive manufacturing",
+  "major_consumers": "motors and actuators",
+  "evaluation_type": "simulation",
+  "energy_model": "representational",
+  "techniques": [
+    "motion and trajectory optimization",
+    "computation allocation and scheduling",
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "accuracy vs energy",
+  "confidence": 0.9
+}

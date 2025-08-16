@@ -1,0 +1,36 @@
+"
+      You are assisting a systematic literature review.
+
+      Criteria:
+      Inclusion
+      i1  Robotics domain focus.
+      i2  Energy efficiency focus.
+      i3  Addresses primarily SOFTWARE aspects, specifically implementation of runnable software (algorithm, control layer, OS/power lib) is the PRIMARY 	lever for saving energy.
+      i4  Presents at least some EVALUATION, such as an empirical assessment or application to a concrete system (sim, real, or both), measuring the 	energy impact of the code implemented.
+
+    Exclusion
+      e1  Energy focus but NO runnable software component evaluated (simulation-only / hardware-only).
+      e2  Mentions energy only as an example or secondary topic.
+
+      TASK:
+      1. Decide include / maybe / exclude.
+      2. Provide 1-2 sentence QUOTE that justifies the decision (from text below).
+      3. Rate Rate confidence as:
+        • high   → ≥90 % sure the decision is correct
+        • medium → 60-89 %
+        • low    → <60 %.
+
+      Return JSON EXACTLY:
+      {{
+        "decision": "...",
+        "confidence": "...",
+        "quote": "..."      # one sentence proving runnable software is evaluated
+      }}
+
+      --- BEGIN STUDY TEXT ---
+      METHODS
+      {methods[:20000]}
+      RESULTS
+      {results[:20000]}
+      --- END STUDY TEXT ---
+    "

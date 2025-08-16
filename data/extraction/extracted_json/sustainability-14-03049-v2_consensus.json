@@ -1,0 +1,83 @@
+{
+  "runs": [
+    {
+      "metric": "relative change versus baseline",
+      "domain": "aerial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization",
+        "computation allocation and scheduling"
+      ],
+      "qa_tradeoff": "accuracy vs energy",
+      "confidence": 0.8
+    },
+    {
+      "metric": "aggregate energy/power",
+      "domain": "aerial",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization"
+      ],
+      "qa_tradeoff": "accuracy vs energy",
+      "confidence": 0.8
+    },
+    {
+      "metric": "task-normalized energy",
+      "domain": "aerial",
+      "evaluation_type": "simulation",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "aerial",
+    "major_consumers": "motors and actuators",
+    "evaluation_type": "simulation",
+    "energy_model": "representational",
+    "qa_tradeoff": "accuracy vs energy",
+    "techniques": [
+      "motion and trajectory optimization"
+    ],
+    "metric": "task-normalized energy",
+    "confidence": 0.85,
+    "needs_review": false,
+    "_votes": {
+      "domain": {
+        "aerial": 3
+      },
+      "major_consumers": {
+        "motors and actuators": 2
+      },
+      "evaluation_type": {
+        "simulation": 3
+      },
+      "energy_model": {
+        "representational": 2
+      },
+      "qa_tradeoff": {
+        "accuracy vs energy": 2
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "aerial": 3
+    },
+    "major_consumers": {
+      "motors and actuators": 2
+    },
+    "evaluation_type": {
+      "simulation": 3
+    },
+    "energy_model": {
+      "representational": 2
+    },
+    "qa_tradeoff": {
+      "accuracy vs energy": 2
+    }
+  },
+  "needs_review": false
+}

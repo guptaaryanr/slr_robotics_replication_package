@@ -1,0 +1,4 @@
+"Extract from METHODS, RESULTS, DISCUSSION, and any GRAPHS/FIGURES/TABLES describing the evaluation. "
+"Populate: metric, domain, major_consumers, evaluation_type, energy_model, techniques, qa_tradeoff, confidence, quote_per_field. "
+"Rules: (1) Use EXACT enum labels; (2) choose EXACTLY one label for single-valued fields; (3) 'techniques' is a list of enum labels; "
+"(4) if uncertain, prefer 'other'; (5) JSON only."

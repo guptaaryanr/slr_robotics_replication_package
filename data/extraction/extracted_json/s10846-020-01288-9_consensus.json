@@ -1,0 +1,84 @@
+{
+  "runs": [
+    {
+      "metric": "composite objective including energy",
+      "domain": "additive manufacturing",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.8
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "additive manufacturing",
+      "major_consumers": "battery and power electronics",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.85
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "additive manufacturing",
+      "evaluation_type": "simulation",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "additive manufacturing",
+    "major_consumers": "battery and power electronics",
+    "evaluation_type": "simulation",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "motion and trajectory optimization"
+    ],
+    "metric": "composite objective including energy",
+    "confidence": 0.85,
+    "needs_review": true,
+    "_votes": {
+      "domain": {
+        "additive manufacturing": 3
+      },
+      "major_consumers": {
+        "motors and actuators": 1,
+        "battery and power electronics": 1
+      },
+      "evaluation_type": {
+        "simulation": 3
+      },
+      "energy_model": {
+        "representational": 2
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 2
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "additive manufacturing": 3
+    },
+    "major_consumers": {
+      "motors and actuators": 1,
+      "battery and power electronics": 1
+    },
+    "evaluation_type": {
+      "simulation": 3
+    },
+    "energy_model": {
+      "representational": 2
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 2
+    }
+  },
+  "needs_review": true
+}

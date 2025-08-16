@@ -1,0 +1,91 @@
+{
+  "runs": [
+    {
+      "metric": "relative change versus baseline",
+      "domain": "additive manufacturing",
+      "major_consumers": "motors and actuators",
+      "evaluation_type": "simulation",
+      "energy_model": "representational",
+      "techniques": [
+        "motion and trajectory optimization",
+        "computation allocation and scheduling"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.8
+    },
+    {
+      "metric": "performance per energy",
+      "domain": "additive manufacturing",
+      "major_consumers": "computing and controllers",
+      "evaluation_type": "simulation",
+      "energy_model": "other",
+      "techniques": [
+        "motion and trajectory optimization",
+        "computation allocation and scheduling"
+      ],
+      "qa_tradeoff": "performance vs energy",
+      "confidence": 0.8
+    },
+    {
+      "metric": "composite objective including energy",
+      "domain": "additive manufacturing",
+      "evaluation_type": "physical",
+      "confidence": 0.85
+    }
+  ],
+  "chosen": {
+    "domain": "additive manufacturing",
+    "major_consumers": "motors and actuators",
+    "evaluation_type": "simulation",
+    "energy_model": "representational",
+    "qa_tradeoff": "performance vs energy",
+    "techniques": [
+      "computation allocation and scheduling",
+      "motion and trajectory optimization"
+    ],
+    "metric": "composite objective including energy",
+    "confidence": 0.85,
+    "needs_review": true,
+    "_votes": {
+      "domain": {
+        "additive manufacturing": 3
+      },
+      "major_consumers": {
+        "motors and actuators": 1,
+        "computing and controllers": 1
+      },
+      "evaluation_type": {
+        "simulation": 2,
+        "physical": 1
+      },
+      "energy_model": {
+        "representational": 1,
+        "other": 1
+      },
+      "qa_tradeoff": {
+        "performance vs energy": 2
+      }
+    }
+  },
+  "votes": {
+    "domain": {
+      "additive manufacturing": 3
+    },
+    "major_consumers": {
+      "motors and actuators": 1,
+      "computing and controllers": 1
+    },
+    "evaluation_type": {
+      "simulation": 2,
+      "physical": 1
+    },
+    "energy_model": {
+      "representational": 1,
+      "other": 1
+    },
+    "qa_tradeoff": {
+      "performance vs energy": 2
+    }
+  },
+  "needs_review": true
+}

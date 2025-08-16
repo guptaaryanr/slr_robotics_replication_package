@@ -1,0 +1,13 @@
+{
+  "metric": "mAP@0.5%",
+  "domain": "other or mixed",
+  "major_consumers": "computing and controllers",
+  "evaluation_type": "physical",
+  "energy_model": "other",
+  "techniques": [
+    "learning or predictive optimization",
+    "computation allocation and scheduling"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.8
+}

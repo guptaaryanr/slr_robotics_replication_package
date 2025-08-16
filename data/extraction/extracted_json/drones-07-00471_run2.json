@@ -1,0 +1,13 @@
+{
+  "metric": "other",
+  "domain": "aerial",
+  "major_consumers": "sensors",
+  "evaluation_type": "hybrid",
+  "energy_model": "other",
+  "techniques": [
+    "motion and trajectory optimization",
+    "computation allocation and scheduling"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.85
+}

@@ -1,0 +1,6 @@
+{
+  "metric": "validation statistics",
+  "domain": "swarm or multi-robot",
+  "evaluation_type": "simulation",
+  "confidence": 0.85
+}

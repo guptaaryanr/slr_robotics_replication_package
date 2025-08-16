@@ -1,0 +1,12 @@
+{
+  "metric": "composite objective including energy",
+  "domain": "iot power",
+  "major_consumers": "computing and controllers",
+  "evaluation_type": "simulation",
+  "energy_model": "representational",
+  "techniques": [
+    "learning or predictive optimization"
+  ],
+  "qa_tradeoff": "performance vs energy",
+  "confidence": 0.8
+}

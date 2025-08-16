@@ -1,0 +1,10 @@
+Stage,Count
+Initial search,533
+Duplicate removal and manual review,409
+Automated abstract screening and manual audit,151
+Automated full text screening with consensus and manual audit,51
+Snowballing (forward/backward),773
+Snowballed paper retrieval,501
+Snowballed abstract screening with manual audit,80
+Snowballed full text screening,28
+Final included studies,51 + 28 = 79
