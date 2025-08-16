@@ -1,4 +1,4 @@
-# Energy Efficiency in Robotics Software: SLR (2020+) — Replication Package
+# Energy Efficiency in Robotics Software: SLR (2020-2024) - Replication Package
 
 This repository contains the **minimal, frozen artifacts** and **scripts** to reproduce the analysis, figures, and tables for our systematic literature review (SLR) “Energy Efficiency in Robotics Software: A Systematic Literature Review From 2020 Onward.”
 
