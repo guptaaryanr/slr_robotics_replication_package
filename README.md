@@ -9,11 +9,11 @@ This repository contains the **minimal, frozen artifacts** and **scripts** to re
 - **License:** Code MIT; data CC BY 4.0 (see `LICENSE`)
 
 ## What’s inside (short)
-- `data/` — frozen CSV/JSONL used in the paper (search, screening, snowballing, extraction, final corpus).
-- `code/` — small scripts to regenerate results or re-run parts of the pipeline.
-- `results/` — final figures and tables exactly as used in the paper.
-- `config/` — inclusion/exclusion rules and the extraction schema (`scheme.json`).
-- `env/` — `requirements.txt` (pinned) and `versions.txt` (tool & model versions).
+- `data/` - frozen CSV/JSONL used in the paper (search, screening, snowballing, extraction, final corpus).
+- `code/` - small scripts to regenerate results or re-run parts of the pipeline.
+- `results/` - final figures and tables exactly as used in the paper.
+- `config/` - inclusion/exclusion rules and the extraction schema (`scheme.json`).
+- `env/` - `requirements.txt` (pinned) and `versions.txt` (tool & model versions).
 
 > We **do not** distribute paper PDFs. Use the DOIs in `data/corpus/final_79_metadata.csv` to obtain texts.
 
