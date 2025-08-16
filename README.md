@@ -3,8 +3,9 @@
 This repository contains the **minimal, frozen artifacts** and **scripts** to reproduce the analysis, figures, and tables for our systematic literature review (SLR) “Energy Efficiency in Robotics Software: A Systematic Literature Review From 2020 Onward.”
 
 - **Paper:** [add arXiv link after upload]
-- **Release tag:** v1.0.0 (recommended for citation)
+- **Release tag:** v1.0.0
 - **Contact:** Aryan Gupta, guptaaryanr@gmail.com
+- **ORCID:** 0009-0001-8179-5145
 - **License:** Code MIT; data CC BY 4.0 (see `LICENSE`)
 
 ## What’s inside (short)
@@ -23,8 +24,5 @@ Recreate all paper figures & tables from the frozen data:
 python -m venv .venv && source .venv/bin/activate
 pip install -r env/requirements.txt
 
-# Rebuild figures/tables from frozen tidy data
-python code/explore_raw.py \
-  --input data/extraction/extraction_table_data.csv \
-  --figdir results/figures \
-  --tabledir results/tables
+# Rebuild figures/tables from frozen tidy data, change directory paths as needed
+python code/explore_raw.py && python code/plot_frequency.py
