@@ -2,7 +2,7 @@
 
 This repository contains the **minimal, frozen artifacts** and **scripts** to reproduce the analysis, figures, and tables for our systematic literature review (SLR) “Energy Efficiency in Robotics Software: A Systematic Literature Review From 2020 Onward.”
 
-- **Paper:** [add arXiv link after upload]
+- **Paper:** https://arxiv.org/abs/2508.12170
 - **Release tag:** v1.0.0
 - **Contact:** Aryan Gupta, guptaaryanr@gmail.com
 - **ORCID:** 0009-0001-8179-5145
